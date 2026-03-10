@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["诡变多端"] = "treacherous",
+    ["诡奇"] = "bizarre",
+    ["诡异"] = "eerie",
+    ["诡形奇制"] = "bizarre shapes",
+    ["诡形殊状"] = "strange shapes",
+    ["诡怪"] = "bizarre",
+    ["诡怪以疑民"] = "bizarre to confuse people",
+    ["诡怪疑云"] = "bizarre mystery",
+    ["诡港实录"] = "deceitful port record",
+    ["诡状异形"] = "grotesque shapes",
+    ["诡秘"] = "mysterious",
+    ["诡秘地"] = "mysteriously",
+    ["诡称"] = "falsely claim",
+    ["诡笑"] = "sinister smile",
+    ["诡衔窃辔"] = "deceitful and thieving",
+    ["诡言浮说"] = "deceitful talk",
+    ["诡计"] = "trick",
+    ["诡计多端"] = "crafty",
+    ["诡诈"] = "deceitful",
+    ["诡诞"] = "absurd",
+    ["诡谲"] = "deceitful",
+    ["诡谲多变"] = "tricky and changeable",
+    ["诡谲怪诞"] = "bizarre and grotesque",
+    ["诡辞"] = "deceitful words",
+    ["诡辩"] = "sophistry",
+    ["诡辩术"] = "sophistry",
+    ["诡辩者"] = "sophist",
+    ["诡道也"] = "deception",
+    ["诡雅异俗"] = "peculiar customs",
+}
+
+return M

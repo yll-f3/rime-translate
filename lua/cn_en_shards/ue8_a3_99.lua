@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["裙下"] = "under the skirt",
+    ["裙内"] = "under skirt",
+    ["裙妒石榴花"] = "skirt envies pomegranate",
+    ["裙子"] = "skirt",
+    ["裙布钗荆"] = "humble attire",
+    ["裙带"] = "nepotism",
+    ["裙带关系"] = "nepotism",
+    ["裙带官"] = "nepotistic official",
+    ["裙带资本主义"] = "crony capitalism",
+    ["裙带风"] = "nepotism",
+    ["裙底"] = "under skirt",
+    ["裙底风光"] = "upskirt",
+    ["裙房"] = "skirt room",
+    ["裙摆"] = "hemline",
+    ["裙摆摇摇"] = "swaying skirt",
+    ["裙撑"] = "crinoline",
+    ["裙服"] = "skirt dress",
+    ["裙楼"] = "podium",
+    ["裙皇公主"] = "princess skirt",
+    ["裙腰"] = "skirt waist",
+    ["裙衩"] = "skirt",
+    ["裙装"] = "dress",
+    ["裙裤"] = "culottes",
+    ["裙裾"] = "skirt",
+    ["裙褶"] = "skirt pleats",
+    ["裙角"] = "hemline",
+    ["裙角飞扬"] = "flying hemline",
+    ["裙身"] = "skirt body",
+    ["裙边"] = "skirt edge",
+    ["裙边菜"] = "skirt trim",
+    ["裙钗"] = "hairpin",
+}
+
+return M

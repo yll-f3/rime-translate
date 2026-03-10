@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["款冬"] = "coltsfoot",
+    ["款冬花"] = "coltsfoot flower",
+    ["款到"] = "payment received",
+    ["款到即发"] = "ship immediately upon payment",
+    ["款到发书"] = "ship books upon payment",
+    ["款到发货"] = "ship upon payment",
+    ["款到后"] = "after payment",
+    ["款坎"] = "gentle",
+    ["款型"] = "model",
+    ["款姐"] = "wealthy lady",
+    ["款子"] = "money",
+    ["款已付"] = "paid",
+    ["款式"] = "style",
+    ["款式新颖"] = "novel style",
+    ["款待"] = "entertain",
+    ["款接"] = "entertain",
+    ["款曲"] = "cordial",
+    ["款曲周至"] = "considerate",
+    ["款款"] = "slowly",
+    ["款款之愚"] = "humble opinion",
+    ["款款动人"] = "graceful",
+    ["款款深深"] = "deeply affectionate",
+    ["款款而行"] = "walk slowly",
+    ["款步"] = "stroll",
+    ["款洽"] = "harmonious",
+    ["款爷"] = "moneybags",
+    ["款留"] = "persuade to stay",
+    ["款目"] = "item",
+    ["款言不听"] = "ignore sweet words",
+    ["款识"] = "inscription",
+    ["款项"] = "payment",
+    ["款额"] = "amount",
+}
+
+return M

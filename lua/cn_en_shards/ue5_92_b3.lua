@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["咳不出来"] = "can't cough up",
+    ["咳了"] = "coughed",
+    ["咳出"] = "cough up",
+    ["咳出来"] = "cough out",
+    ["咳咳"] = "ahem",
+    ["咳喘"] = "cough and asthma",
+    ["咳喘停膏"] = "kechuanting ointment",
+    ["咳喘宁"] = "kechuanning",
+    ["咳喘宁口服液"] = "kechuanning oral liquid",
+    ["咳喘宁胶囊"] = "kechuanning capsule",
+    ["咳喘舒片"] = "kechuanshu tablet",
+    ["咳嗽"] = "cough",
+    ["咳嗽声"] = "cough sound",
+    ["咳嗽病"] = "cough disease",
+    ["咳嗽痰多"] = "productive cough",
+    ["咳嗽药"] = "cough medicine",
+    ["咳声"] = "cough",
+    ["咳宁糖浆"] = "cough syrup",
+    ["咳宁胶囊"] = "cough relief capsule",
+    ["咳得"] = "coughing",
+    ["咳必清"] = "carbetapentane",
+    ["咳欣康片"] = "kexinkang tablets",
+    ["咳特灵"] = "keteling",
+    ["咳特灵片"] = "keteling tablets",
+    ["咳特灵胶囊"] = "keteling capsules",
+    ["咳珠唾玉"] = "pearls of wisdom",
+    ["咳痰"] = "expectoration",
+    ["咳痰清糖浆"] = "expectorant syrup",
+    ["咳舒糖浆"] = "cough syrup",
+    ["咳血"] = "coughing blood",
+    ["咳露口服液"] = "kelu oral liquid",
+}
+
+return M

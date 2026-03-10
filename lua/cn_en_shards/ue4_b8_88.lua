@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["丈二"] = "twelve feet",
+    ["丈二和尚"] = "confused monk",
+    ["丈二和尚摸不着头脑"] = "utterly confused",
+    ["丈二金刚"] = "twelve feet vajra",
+    ["丈人"] = "father-in-law",
+    ["丈人峰"] = "father-in-law peak",
+    ["丈余"] = "zhang yu",
+    ["丈八东村"] = "zhangba east village",
+    ["丈八东路"] = "zhangba east road",
+    ["丈八宾馆"] = "zhangba hotel",
+    ["丈八寺镇"] = "zhangba temple town",
+    ["丈八点钢矛"] = "zhangba steel spear",
+    ["丈八蛇矛"] = "zhangba serpent spear",
+    ["丈八街道"] = "zhangba street",
+    ["丈六金身"] = "sixteen-foot golden body",
+    ["丈外"] = "beyond reach",
+    ["丈夫"] = "husband",
+    ["丈夫何事足萦怀"] = "what troubles a husband",
+    ["丈夫志四海"] = "husband aims afar",
+    ["丈夫未可轻年少"] = "don't underestimate youth",
+    ["丈夫的"] = "husband's",
+    ["丈夫贵兼济"] = "husband values benefiting others",
+    ["丈夫长"] = "husband's length",
+    ["丈夫非无泪"] = "husband not tearless",
+    ["丈尺权衡"] = "measurements",
+    ["丈母"] = "mother-in-law",
+    ["丈母娘"] = "mother-in-law",
+    ["丈许"] = "about ten feet",
+    ["丈量"] = "measure",
+    ["丈量土地"] = "measure land",
+    ["丈量面积"] = "measure area",
+}
+
+return M

@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["褪下"] = "take off",
+    ["褪不了"] = "cannot fade",
+    ["褪了"] = "faded",
+    ["褪了毛"] = "defeathered",
+    ["褪化"] = "fade",
+    ["褪去"] = "fade",
+    ["褪去了"] = "faded",
+    ["褪去冬衣"] = "shed winter clothes",
+    ["褪后趋前"] = "fade back move forward",
+    ["褪外套"] = "take off coat",
+    ["褪套儿"] = "slip out of a noose",
+    ["褪干净"] = "fade",
+    ["褪掉"] = "fade off",
+    ["褪掉了"] = "faded off",
+    ["褪棉袄"] = "shed cotton jacket",
+    ["褪毛"] = "shedding",
+    ["褪毛了"] = "shed",
+    ["褪毛衣"] = "shedding sweater",
+    ["褪色"] = "fade",
+    ["褪色剂"] = "bleach",
+    ["褪色的"] = "faded",
+    ["褪衣服"] = "undress",
+    ["褪衣裳"] = "remove clothes",
+    ["褪袜子"] = "take off socks",
+    ["褪裤子"] = "pull pants",
+    ["褪鱼鳞"] = "scale fish",
+    ["褪鳞"] = "scale shedding",
+    ["褪鳞片"] = "scale shedding",
+    ["褪黑素"] = "melatonin",
+}
+
+return M

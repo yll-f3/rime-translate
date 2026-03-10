@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["鲤南镇"] = "linan town",
+    ["鲤城公安分局"] = "licheng police",
+    ["鲤城区"] = "licheng district",
+    ["鲤城区政府"] = "licheng government",
+    ["鲤城街道"] = "licheng street",
+    ["鲤城镇"] = "licheng town",
+    ["鲤形冠鰕虎鱼"] = "cyprinid goby",
+    ["鲤氏侦探事务所"] = "carp detective agency",
+    ["鲤趋而过庭"] = "carp passing courtyard",
+    ["鲤跃龙门"] = "carp leaps over dragon gate",
+    ["鲤退而学礼"] = "retreat to learn etiquette",
+    ["鲤退而学诗"] = "retreat to learn poetry",
+    ["鲤鱼"] = "carp",
+    ["鲤鱼三吃"] = "three ways to eat carp",
+    ["鲤鱼头"] = "carp head",
+    ["鲤鱼尾"] = "carp tail",
+    ["鲤鱼山"] = "carp hill",
+    ["鲤鱼山花园小区"] = "carp hill garden community",
+    ["鲤鱼打挺"] = "carp flip",
+    ["鲤鱼旗"] = "koinobori",
+    ["鲤鱼村"] = "carp village",
+    ["鲤鱼池"] = "carp pond",
+    ["鲤鱼汤"] = "carp soup",
+    ["鲤鱼沙"] = "carp shoal",
+    ["鲤鱼溪"] = "carp stream",
+    ["鲤鱼潭"] = "carp lake",
+    ["鲤鱼焙面"] = "carp with baked noodles",
+    ["鲤鱼牌"] = "carp brand",
+    ["鲤鱼石"] = "carp stone",
+    ["鲤鱼粥"] = "carp porridge",
+    ["鲤鱼苦瓜汤"] = "carp and bitter melon soup",
+    ["鲤鱼跳龙门"] = "carp leaping over dragon gate",
+}
+
+return M

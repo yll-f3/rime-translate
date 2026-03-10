@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["妄为"] = "act recklessly",
+    ["妄人"] = "arrogant person",
+    ["妄作"] = "reckless act",
+    ["妄加"] = "presume",
+    ["妄加指责"] = "baseless accusations",
+    ["妄加猜测"] = "wild guess",
+    ["妄加评论"] = "reckless comment",
+    ["妄动"] = "reckless action",
+    ["妄取"] = "take unjustly",
+    ["妄图"] = "attempt",
+    ["妄尘而拜"] = "blind worship",
+    ["妄念"] = "delusion",
+    ["妄想"] = "delusion",
+    ["妄想型精神分裂症"] = "paranoid schizophrenia",
+    ["妄想山海"] = "delusional mountains and seas",
+    ["妄想狂"] = "paranoia",
+    ["妄想症"] = "delusional disorder",
+    ["妄想获取"] = "delusional acquisition",
+    ["妄断"] = "arbitrary conclusion",
+    ["妄求"] = "unreasonable request",
+    ["妄用"] = "misuse",
+    ["妄称"] = "false claim",
+    ["妄自尊大"] = "self-important",
+    ["妄言"] = "nonsense",
+    ["妄言妄语"] = "wild talk",
+    ["妄议"] = "improper remarks",
+    ["妄语"] = "false speech",
+    ["妄说"] = "nonsense",
+    ["妄谈"] = "wild talk",
+}
+
+return M

@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["挽上"] = "pull up",
+    ["挽不住"] = "can't hold",
+    ["挽了个剑花"] = "sword flourish",
+    ["挽了个髻"] = "tied a bun",
+    ["挽住"] = "hold back",
+    ["挽具"] = "harness",
+    ["挽力"] = "towing force",
+    ["挽回"] = "retrieve",
+    ["挽回影响"] = "retrieve influence",
+    ["挽回损失"] = "recover losses",
+    ["挽回经济损失"] = "recover economic losses",
+    ["挽尊"] = "save face",
+    ["挽幛"] = "funeral scroll",
+    ["挽弓当挽强"] = "draw strongest bow",
+    ["挽戴安澜将军"] = "general dai anlan's elegy",
+    ["挽手"] = "hand-hold",
+    ["挽救"] = "rescue",
+    ["挽救不了"] = "beyond rescue",
+    ["挽救法"] = "salvage law",
+    ["挽曳"] = "tow",
+    ["挽歌"] = "elegy",
+    ["挽狂澜"] = "save the day",
+    ["挽留"] = "retain",
+    ["挽留他"] = "retain him",
+    ["挽留她"] = "retain her",
+    ["挽着"] = "holding",
+    ["挽联"] = "elegiac couplet",
+    ["挽袖"] = "roll up sleeves",
+    ["挽词"] = "elegy",
+    ["挽诗"] = "elegy",
+    ["挽起"] = "roll up",
+    ["挽马"] = "draft horse",
+}
+
+return M

@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["锥体"] = "pyramid",
+    ["锥体外系"] = "extrapyramidal",
+    ["锥体外系反应"] = "extrapyramidal reaction",
+    ["锥体外系疾病"] = "extrapyramidal disease",
+    ["锥体束"] = "pyramidal tract",
+    ["锥体系统"] = "pyramidal system",
+    ["锥体细胞"] = "pyramidal cell",
+    ["锥刀"] = "awl knife",
+    ["锥刀之用"] = "use of awl",
+    ["锥刺股"] = "stab thigh",
+    ["锥头"] = "cone head",
+    ["锥子"] = "awl",
+    ["锥子山"] = "conical hill",
+    ["锥度"] = "taper",
+    ["锥形"] = "conical",
+    ["锥形堵塞"] = "conical blockage",
+    ["锥形物"] = "cone",
+    ["锥形触啮"] = "conical bite",
+    ["锥心"] = "heart-wrenching",
+    ["锥把胡同"] = "awl handle alley",
+    ["锥板式黏度计"] = "cone-plate viscometer",
+    ["锥栗"] = "chinquapin",
+    ["锥栗罐头"] = "canned chinquapin",
+    ["锥桶"] = "cone",
+    ["锥状"] = "conical",
+    ["锥突"] = "cone projection",
+    ["锥纹光壳蛤"] = "clam",
+    ["锥腹蟏蛸"] = "cone-bellied spider",
+    ["锥虫胂胺"] = "tryparsamide",
+    ["锥面"] = "conical surface",
+}
+
+return M

@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["贩交买名"] = "trade friendship for fame",
+    ["贩假"] = "traffic fakes",
+    ["贩卖"] = "sell",
+    ["贩卖人口"] = "human trafficking",
+    ["贩卖假药罪"] = "crime of selling fake drugs",
+    ["贩卖军火"] = "arms trafficking",
+    ["贩卖奴隶"] = "slave trade",
+    ["贩卖机"] = "vending machine",
+    ["贩卖毒品"] = "drug trafficking",
+    ["贩卖毒品罪"] = "drug trafficking crime",
+    ["贩卖毒品罪研究"] = "study of drug trafficking crime",
+    ["贩卖淫秽物品罪"] = "crime of selling obscene materials",
+    ["贩卖焦虑"] = "selling anxiety",
+    ["贩售"] = "sell",
+    ["贩夫"] = "peddler",
+    ["贩夫皂隶"] = "lowly peddlers",
+    ["贩夫贩妇"] = "peddlers",
+    ["贩夫走卒"] = "peddlers and runners",
+    ["贩子"] = "dealer",
+    ["贩毒"] = "drug trafficking",
+    ["贩毒分子"] = "drug trafficker",
+    ["贩毒案"] = "drug trafficking case",
+    ["贩毒案件"] = "drug trafficking cases",
+    ["贩毒集团"] = "drug trafficking ring",
+    ["贩私"] = "smuggle",
+    ["贩货"] = "traffic goods",
+    ["贩贱卖贵"] = "buy cheap and sell dear",
+    ["贩运"] = "trafficking",
+    ["贩运户"] = "trafficker",
+    ["贩运者"] = "trafficker",
+    ["贩黄"] = "traffic pornography",
+}
+
+return M

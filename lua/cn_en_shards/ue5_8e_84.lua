@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["厄他培南"] = "ertapenem",
+    ["厄休拉"] = "ursula",
+    ["厄利空"] = "oerlikon",
+    ["厄勒海峡"] = "oresund strait",
+    ["厄境"] = "adversity",
+    ["厄姆"] = "erm",
+    ["厄密多项式"] = "hermite polynomial",
+    ["厄尔尼诺"] = "el nino",
+    ["厄尔尼诺现象"] = "el nino phenomenon",
+    ["厄德高"] = "odegaard",
+    ["厄普森"] = "upson",
+    ["厄洛斯"] = "eros",
+    ["厄瑞波斯"] = "erebus",
+    ["厄瓜多尔"] = "ecuador",
+    ["厄瓜多尔共和国"] = "republic of ecuador",
+    ["厄瓜多尔姬啄木鸟"] = "ecuadorian piculet",
+    ["厄瓜多尔蚁鵙"] = "ecuadorian antshrike",
+    ["厄瓜多尔队"] = "ecuador team",
+    ["厄瓜多尔鸺鹠"] = "ecuadorian pygmy owl",
+    ["厄立特里亚"] = "eritrea",
+    ["厄立特里亚国"] = "state of eritrea",
+    ["厄立特里亚国家"] = "eritrea",
+    ["厄贝沙坦"] = "irbesartan",
+    ["厄贝沙坦氢氯噻嗪片"] = "irbesartan hydrochlorothiazide tablets",
+    ["厄贝沙坦片"] = "irbesartan tablets",
+    ["厄贝沙坦胶囊"] = "irbesartan capsules",
+    ["厄达拉克塔盾"] = "edalakta shield",
+    ["厄运"] = "misfortune",
+    ["厄里倪厄斯"] = "erinyes",
+    ["厄里斯"] = "eris",
+    ["厄难"] = "disaster",
+}
+
+return M

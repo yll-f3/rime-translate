@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["沐三"] = "mu sandui",
+    ["沐丹阳"] = "mu danyang",
+    ["沐仁浴义"] = "bathed in benevolence",
+    ["沐川"] = "muchuan",
+    ["沐川乌骨黑鸡"] = "muchuan black-boned chicken",
+    ["沐川县"] = "muchuan county",
+    ["沐川县司法局"] = "muchuan county justice bureau",
+    ["沐恩"] = "receive favor",
+    ["沐日浴月"] = "bathed in sun and moon",
+    ["沐浴"] = "bath",
+    ["沐浴之王"] = "bath buddy",
+    ["沐浴乳"] = "shower cream",
+    ["沐浴于"] = "bathe in",
+    ["沐浴液"] = "shower liquid",
+    ["沐浴着"] = "bathed in",
+    ["沐浴者"] = "bather",
+    ["沐浴膏泽"] = "bathe in kindness",
+    ["沐浴门"] = "bathgate",
+    ["沐浴露"] = "shower gel",
+    ["沐猴而冠"] = "a monkey in a hat",
+    ["沐猴而冠带"] = "a monkey in regalia",
+    ["沐猴衣冠"] = "a monkey in fine clothes",
+    ["沐王"] = "mu king",
+    ["沐琮"] = "mu cong",
+    ["沐石河"] = "blurred vision",
+    ["沐阳"] = "muyang",
+    ["沐阳县"] = "muyang county",
+    ["沐雨梳风"] = "brave wind and rain",
+    ["沐霞路"] = "muxia road",
+}
+
+return M

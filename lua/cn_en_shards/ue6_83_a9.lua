@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["惩一儆众"] = "punish one to warn many",
+    ["惩一儆百"] = "punish one to warn a hundred",
+    ["惩一戒百"] = "punish one to warn a hundred",
+    ["惩前毖后"] = "learn from past mistakes",
+    ["惩办"] = "punish",
+    ["惩噎忘餐"] = "punish and forget to eat",
+    ["惩处"] = "punish",
+    ["惩忿窒欲"] = "control anger and restrain desires",
+    ["惩恶"] = "punish evil",
+    ["惩恶扬善"] = "punish evil and promote good",
+    ["惩戒"] = "discipline",
+    ["惩戒巨斧"] = "disciplinary axe",
+    ["惩戒措施"] = "disciplinary measures",
+    ["惩戒痛击"] = "disciplinary strike",
+    ["惩戒者"] = "disciplinarian",
+    ["惩治"] = "punish",
+    ["惩治恐怖主义犯罪理论与立法"] = "theory and legislation on punishing terrorist crimes",
+    ["惩治腐败"] = "punish corruption",
+    ["惩罚"] = "punishment",
+    ["惩罚你"] = "punish you",
+    ["惩罚光环"] = "punishment aura",
+    ["惩罚性"] = "punitive",
+    ["惩罚性赔偿"] = "punitive damages",
+    ["惩罚措施"] = "punitive measures",
+    ["惩罚的"] = "punitive",
+    ["惩罚的绳索"] = "rope of punishment",
+    ["惩罚自己"] = "punish oneself",
+    ["惩艾"] = "punish",
+    ["惩防体系"] = "punishment and prevention system",
+    ["惩防并举"] = "punishment and prevention combined",
+}
+
+return M

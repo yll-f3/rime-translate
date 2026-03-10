@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["寺上"] = "temple upper",
+    ["寺上村村委会"] = "sishang village committee",
+    ["寺东"] = "temple east",
+    ["寺中"] = "temple interior",
+    ["寺僧"] = "temple monks",
+    ["寺儿沟"] = "si'ergou",
+    ["寺内"] = "temple interior",
+    ["寺前"] = "temple front",
+    ["寺前馄饨"] = "temple front wonton",
+    ["寺后"] = "behind temple",
+    ["寺坡村"] = "sipo village",
+    ["寺塔"] = "temple tower",
+    ["寺头"] = "sitou",
+    ["寺寨乡"] = "sizhai township",
+    ["寺山乡"] = "sishan township",
+    ["寺岛忍"] = "shinobu terajima",
+    ["寺岛进"] = "susumu terajima",
+    ["寺庄乡"] = "sizhuang township",
+    ["寺庙"] = "temple",
+    ["寺桥"] = "temple bridge",
+    ["寺沟村"] = "sigou village",
+    ["寺洼文化"] = "siwa culture",
+    ["寺街"] = "temple street",
+    ["寺观"] = "temple",
+    ["寺规"] = "temple rules",
+    ["寺里"] = "in temple",
+    ["寺门村"] = "simon village",
+    ["寺门高开洞庭野"] = "simon high open dongting wild",
+    ["寺院"] = "temple",
+    ["寺院建筑"] = "temple architecture",
+}
+
+return M

@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["谐函数"] = "harmonic function",
+    ["谐剧"] = "comedy",
+    ["谐和"] = "harmony",
+    ["谐声"] = "harmonic sound",
+    ["谐夜蛾"] = "noctuid moth",
+    ["谐婉"] = "harmonious and graceful",
+    ["谐戏"] = "comic play",
+    ["谐振"] = "resonance",
+    ["谐振器"] = "resonator",
+    ["谐振子"] = "harmonic oscillator",
+    ["谐振箱"] = "resonance box",
+    ["谐振腔"] = "resonant cavity",
+    ["谐振频率"] = "resonant frequency",
+    ["谐星"] = "comedian",
+    ["谐波"] = "harmonic wave",
+    ["谐波信号"] = "harmonic signal",
+    ["谐波分析"] = "harmonic analysis",
+    ["谐波含量"] = "harmonic content",
+    ["谐波失真"] = "harmonic distortion",
+    ["谐波电流"] = "harmonic current",
+    ["谐美"] = "harmonious",
+    ["谐谑"] = "banter",
+    ["谐谑曲"] = "scherzo",
+    ["谐赋"] = "humorous fu",
+    ["谐趣"] = "humor",
+    ["谐音"] = "homophonic",
+    ["谐音梗"] = "pun",
+    ["谐鱼"] = "homophonic fish",
+    ["谐鱼科"] = "harmuridae",
+}
+
+return M

@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["疼不"] = "does it hurt",
+    ["疼不疼"] = "does it hurt",
+    ["疼了"] = "hurt",
+    ["疼人"] = "loving",
+    ["疼他"] = "love him",
+    ["疼你"] = "love you",
+    ["疼吗"] = "does it hurt",
+    ["疼啊"] = "it hurts",
+    ["疼嘛"] = "does it hurt",
+    ["疼她"] = "love her",
+    ["疼它"] = "love it",
+    ["疼完"] = "teng tu zheng gu",
+    ["疼得"] = "hurts",
+    ["疼得像"] = "hurt like",
+    ["疼怜"] = "pity",
+    ["疼惜"] = "cherish",
+    ["疼我"] = "love me",
+    ["疼死"] = "painful death",
+    ["疼死了"] = "so painful",
+    ["疼死啦"] = "it hurts",
+    ["疼爱"] = "cherish",
+    ["疼疼"] = "ouch",
+    ["疼痛"] = "fujita saki",
+    ["疼痛不堪"] = "fujima",
+    ["疼痛感"] = "rattan",
+    ["疼痛文学"] = "pain sensation",
+    ["疼痛门诊"] = "pain",
+    ["疼痛难忍"] = "excruciating",
+    ["疼的"] = "painful",
+    ["疼着呢"] = "hurting",
+}
+
+return M

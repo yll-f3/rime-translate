@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["啤梨"] = "pear cider",
+    ["啤酒"] = "beer",
+    ["啤酒业"] = "beer industry",
+    ["啤酒企业"] = "beer enterprise",
+    ["啤酒公司"] = "beer company",
+    ["啤酒厂"] = "brewery",
+    ["啤酒吧"] = "beer bar",
+    ["啤酒大麦"] = "beer barley",
+    ["啤酒屋"] = "beer house",
+    ["啤酒市场"] = "beer market",
+    ["啤酒有限"] = "beer limited",
+    ["啤酒杯"] = "beer mug",
+    ["啤酒汤"] = "beer soup",
+    ["啤酒炖猪蹄"] = "beer braised pork knuckle",
+    ["啤酒王"] = "beer king",
+    ["啤酒瓶"] = "beer bottle",
+    ["啤酒界"] = "beer world",
+    ["啤酒肚"] = "beer belly",
+    ["啤酒节"] = "beer festival",
+    ["啤酒花"] = "hops",
+    ["啤酒花公司"] = "hops company",
+    ["啤酒花浸膏"] = "hops extract",
+    ["啤酒行业"] = "beer industry",
+    ["啤酒路"] = "beer road",
+    ["啤酒钱"] = "beer money",
+    ["啤酒门"] = "beer gate",
+    ["啤酒集团"] = "beer group",
+    ["啤酒饮料"] = "beer beverage",
+    ["啤酒鱼"] = "beer fish",
+    ["啤酒鸭"] = "beer duck",
+    ["啤酒鸭火锅"] = "beer duck hotpot",
+}
+
+return M

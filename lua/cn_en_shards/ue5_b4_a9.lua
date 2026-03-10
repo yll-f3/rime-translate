@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["崩不"] = "not collapse",
+    ["崩了"] = "collapsed",
+    ["崩倒"] = "collapse",
+    ["崩坍"] = "collapse",
+    ["崩坏"] = "collapse",
+    ["崩坏世界"] = "collapse world",
+    ["崩坏四"] = "collapse four",
+    ["崩塌"] = "collapse",
+    ["崩崩崩"] = "collapse collapse collapse",
+    ["崩掉"] = "break off",
+    ["崩掌"] = "bengzhang",
+    ["崩摧"] = "collapse",
+    ["崩服"] = "bengfu",
+    ["崩殂"] = "pass away",
+    ["崩毁"] = "collapse",
+    ["崩溃"] = "collapse",
+    ["崩溃了"] = "collapsed",
+    ["崩溃日志"] = "crash log",
+    ["崩漏"] = "collapse leak",
+    ["崩牙驹"] = "bengyaju",
+    ["崩瓜"] = "benggua",
+    ["崩盘"] = "crash",
+    ["崩腾醉中流"] = "collapse drunk in flow",
+    ["崩落"] = "collapse fall",
+    ["崩裂"] = "crack",
+    ["崩解"] = "disintegration",
+    ["崩解剂"] = "disintegrant",
+    ["崩解时限"] = "disintegration time limit",
+    ["崩豆张"] = "bengdouzhang",
+}
+
+return M

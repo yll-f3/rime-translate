@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["樋上至"] = "control",
+    ["樋井明日香"] = "asuka toii",
+    ["樋口一叶"] = "ichiyo higuchi",
+    ["樋口兼光"] = "kanemitsu higuchi",
+    ["樋口可南子"] = "kanako higuchi",
+    ["樋口大辅"] = "daisuke higuchi",
+    ["樋口季一郎"] = "kiichiro higuchi",
+    ["樋口敬七郎"] = "keishichiro higuchi",
+    ["樋口新叶"] = "shinyo higuchi",
+    ["樋口日奈"] = "hina higuchi",
+    ["樋口时彦"] = "tokihiko higuchi",
+    ["樋口明日嘉"] = "asuka higuchi",
+    ["樋口明日香"] = "asuka higuchi",
+    ["樋口智惠子"] = "chieko higuchi",
+    ["樋口智透"] = "satoshi higuchi",
+    ["樋口朝"] = "asahi higuchi",
+    ["樋口橘"] = "tachibana higuchi",
+    ["樋口直房"] = "naofusa higuchi",
+    ["樋口真嗣"] = "shinji higuchi",
+    ["樋口站"] = "higuchi station",
+    ["樋口车站"] = "higuchi station",
+    ["樋口静子"] = "shizuko higuchi",
+    ["樋口黎"] = "rei higuchi",
+    ["樋屋奇应丸"] = "toya kian pills",
+    ["樋渡结依"] = "toi yuii",
+    ["樋越站"] = "higoshi stop",
+    ["樋越车站"] = "higoshi station",
+    ["樋速日神"] = "god hishigi",
+    ["樋野茉理"] = "hino mari",
+}
+
+return M

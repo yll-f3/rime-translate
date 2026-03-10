@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["翼下挂架"] = "underwing pylon",
+    ["翼之声"] = "voice of wings",
+    ["翼侧"] = "flank",
+    ["翼内肌"] = "medial pterygoid muscle",
+    ["翼型"] = "airfoil",
+    ["翼城县"] = "yicheng county",
+    ["翼子板隔音"] = "fender sound insulation",
+    ["翼宿"] = "wing mansion",
+    ["翼尖"] = "wingtip",
+    ["翼展"] = "wingspan",
+    ["翼形亚纲"] = "pterygota",
+    ["翼手龙"] = "pterosaur",
+    ["翼指龙"] = "pterodactyl",
+    ["翼无忧"] = "worry-free wing",
+    ["翼柄山牵牛"] = "thunbergia wingstem",
+    ["翼梢"] = "wingtip",
+    ["翼然"] = "soaring",
+    ["翼状胬肉"] = "pterygium",
+    ["翼状胬肉切除术"] = "pterygium excision",
+    ["翼缘板"] = "flange plate",
+    ["翼翅"] = "wings",
+    ["翼翼小心"] = "cautious",
+    ["翼翼飞鸾"] = "soaring phoenix",
+    ["翼舞"] = "wing dance",
+    ["翼若垂天之云"] = "wings like hanging sky clouds",
+    ["翼葵"] = "winged sunflower",
+    ["翼豹"] = "subaru",
+    ["翼钟水母"] = "winged bell jellyfish",
+    ["翼面"] = "wing surface",
+    ["翼龙"] = "pterosaur",
+}
+
+return M

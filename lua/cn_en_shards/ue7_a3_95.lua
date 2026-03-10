@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["磕一下"] = "bump",
+    ["磕个头"] = "kowtow",
+    ["磕了"] = "knocked",
+    ["磕了个头"] = "kowtowed",
+    ["磕到"] = "bumped",
+    ["磕坏"] = "damaged by knocking",
+    ["磕坏了"] = "knocked broken",
+    ["磕头"] = "kowtow",
+    ["磕头作揖"] = "kowtow and bow",
+    ["磕头如捣蒜"] = "kowtow repeatedly",
+    ["磕头机"] = "nodding donkey",
+    ["磕头烧香"] = "kowtow and burn incense",
+    ["磕头碰脑"] = "bump heads",
+    ["磕头礼拜"] = "kowtow worship",
+    ["磕巴"] = "stutter",
+    ["磕打"] = "knock",
+    ["磕打一下"] = "knock",
+    ["磕掉"] = "knock off",
+    ["磕牙"] = "chatter",
+    ["磕牙磕嘴"] = "chatter and quarrel",
+    ["磕着"] = "bumped",
+    ["磕破"] = "bruise",
+    ["磕破头"] = "bruised head",
+    ["磕碰"] = "bump",
+    ["磕碰儿"] = "small bump",
+    ["磕磕巴巴"] = "stutter",
+    ["磕磕撞撞"] = "stumbling",
+    ["磕磕碰碰"] = "bumps",
+    ["磕磕绊绊"] = "stumble",
+    ["磕绊"] = "stumble",
+    ["磕长头"] = "prostration",
+}
+
+return M

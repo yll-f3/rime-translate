@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["炫一炫"] = "show off",
+    ["炫丽"] = "xuanli",
+    ["炫了"] = "xuanle",
+    ["炫奇争胜"] = "compete for novelty",
+    ["炫客"] = "show-off",
+    ["炫富"] = "flaunt wealth",
+    ["炫巧斗妍"] = "vie in skill and beauty",
+    ["炫异争奇"] = "compete in novelty",
+    ["炫弄"] = "show off",
+    ["炫彩"] = "iridescent",
+    ["炫彩皮肤"] = "chroma skin",
+    ["炫彩魔盒"] = "chroma capsule",
+    ["炫技"] = "show skill",
+    ["炫昼缟夜"] = "dazzling day and night",
+    ["炫服靓妆"] = "glamorous attire",
+    ["炫材扬己"] = "show off",
+    ["炫目"] = "dazzling",
+    ["炫石为玉"] = "pass off stone as jade",
+    ["炫示"] = "show off",
+    ["炫耀"] = "show off",
+    ["炫耀性"] = "conspicuous",
+    ["炫耀着"] = "showing off",
+    ["炫耀自己"] = "flaunt oneself",
+    ["炫舞"] = "dance",
+    ["炫起来"] = "shine on",
+    ["炫酷"] = "cool",
+    ["炫酷效果"] = "cool effects",
+    ["炫铃"] = "xuanling",
+    ["炫鬻"] = "flaunt",
+}
+
+return M

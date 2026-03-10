@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["烘一烘"] = "warm a bit",
+    ["烘云托月"] = "set off the moon with clouds",
+    ["烘制"] = "baking",
+    ["烘山芋"] = "baked sweet potato",
+    ["烘干"] = "drying",
+    ["烘干机"] = "dryer",
+    ["烘干炉"] = "drying oven",
+    ["烘干设备"] = "drying equipment",
+    ["烘房"] = "drying room",
+    ["烘托"] = "set off",
+    ["烘托出"] = "bring out",
+    ["烘托渲染"] = "highlight and exaggerate",
+    ["烘托着"] = "sets off",
+    ["烘暖烧香阁"] = "warm incense pavilion",
+    ["烘染"] = "highlight",
+    ["烘炉"] = "furnace",
+    ["烘烘"] = "warm",
+    ["烘烤"] = "baking",
+    ["烘烤的"] = "baked",
+    ["烘焙"] = "baking",
+    ["烘碗机"] = "dish dryer",
+    ["烘笼"] = "drying cage",
+    ["烘箱"] = "oven",
+    ["烘篮"] = "warming basket",
+    ["烘糕"] = "baked cake",
+    ["烘缸"] = "drying cylinder",
+    ["烘衣服"] = "dry clothes",
+    ["烘衣机"] = "clothes dryer",
+    ["烘衬"] = "highlight",
+    ["烘青"] = "baked green tea",
+}
+
+return M

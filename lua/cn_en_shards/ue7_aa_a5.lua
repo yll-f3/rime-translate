@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["窥一斑而知全豹"] = "see a leopard",
+    ["窥伺"] = "lurk",
+    ["窥伺效慕"] = "watch and admire",
+    ["窥伺间隙"] = "watch gap",
+    ["窥孔"] = "peephole",
+    ["窥孔优化"] = "peephole optimization",
+    ["窥察"] = "observe",
+    ["窥屏"] = "screen peek",
+    ["窥度"] = "guess",
+    ["窥探"] = "spy",
+    ["窥探者"] = "spy",
+    ["窥望"] = "peep",
+    ["窥测"] = "spy",
+    ["窥测一斑"] = "glimpse",
+    ["窥涉百家"] = "explore schools",
+    ["窥牖小儿"] = "peeping tom",
+    ["窥看"] = "peek",
+    ["窥知"] = "glimpse",
+    ["窥破"] = "see through",
+    ["窥窃神器"] = "usurp power",
+    ["窥窬分毫"] = "covet trifles",
+    ["窥见"] = "glimpse",
+    ["窥见一斑"] = "see a glimpse",
+    ["窥视"] = "peek",
+    ["窥视着"] = "peering",
+    ["窥视镜"] = "peephole",
+    ["窥觎非望"] = "covetousness",
+    ["窥觑"] = "peek",
+    ["窥豹一斑"] = "glimpse",
+    ["窥镜"] = "peek mirror",
+    ["窥阴器"] = "speculum",
+    ["窥阴癖"] = "voyeurism",
+}
+
+return M

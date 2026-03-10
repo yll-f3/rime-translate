@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["茫如坠烟雾"] = "lost in fog",
+    ["茫崖"] = "mangya",
+    ["茫崖市"] = "mangya city",
+    ["茫崖行委"] = "mangya administrative committee",
+    ["茫拉乡"] = "mangla township",
+    ["茫无头绪"] = "clueless",
+    ["茫无定见"] = "indecisive",
+    ["茫无涯"] = "boundless",
+    ["茫昧"] = "obscure",
+    ["茫曲镇"] = "mangqu town",
+    ["茫漠"] = "desolate",
+    ["茫然"] = "blank",
+    ["茫然不知"] = "utterly unaware",
+    ["茫然不知所措"] = "completely at a loss",
+    ["茫然失措"] = "confused",
+    ["茫然的"] = "blankly",
+    ["茫然若失"] = "at a loss",
+    ["茫然若迷"] = "bewildered",
+    ["茫然莫知所措"] = "totally bewildered",
+    ["茫然费解"] = "utterly perplexed",
+    ["茫茫"] = "vast",
+    ["茫茫九派流中国"] = "vast rivers flow through china",
+    ["茫茫人海"] = "vast crowd",
+    ["茫茫大海"] = "vast sea",
+    ["茫茫天地间"] = "between heaven and earth",
+    ["茫茫无际"] = "boundless",
+    ["茫茫来日愁如海"] = "endless sorrow looms ahead",
+    ["茫茫渺渺"] = "vast and hazy",
+    ["茫茫然"] = "dazed",
+    ["茫茫苦海"] = "sea of bitterness",
+    ["茫茫走胡兵"] = "roaming soldiers",
+}
+
+return M

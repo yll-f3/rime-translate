@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["窦光鼐"] = "dou guangnai",
+    ["窦唯"] = "dou wei",
+    ["窦团山"] = "shake leg",
+    ["窦姓"] = "dou surname",
+    ["窦娥"] = "dou e",
+    ["窦娥冤"] = "the injustice to dou e",
+    ["窦家庄"] = "doujiazhuang",
+    ["窦尔敦"] = "dou erdun",
+    ["窦店"] = "doudian",
+    ["窦店汽车站"] = "doudian bus station",
+    ["窦店火车站"] = "doudian railway station",
+    ["窦店环岛"] = "doudian roundabout",
+    ["窦店镇政府"] = "doudian town government",
+    ["窦府"] = "dou mansion",
+    ["窦建德"] = "dou jiande",
+    ["窦性"] = "sinus rhythm",
+    ["窦性停搏"] = "sinus arrest",
+    ["窦性心动过缓"] = "sinus bradycardia",
+    ["窦性心动过速"] = "sinus tachycardia",
+    ["窦性心律"] = "sinus rhythm",
+    ["窦房传导阻滞"] = "sinoatrial block",
+    ["窦房结"] = "sinoatrial node",
+    ["窦房阻滞"] = "sinoatrial block",
+    ["窦文涛"] = "dou wentao",
+    ["窦智孔"] = "dou zhikong",
+    ["窦村"] = "dou village",
+    ["窦腺"] = "sinus gland",
+    ["窦舟蛾"] = "douzhou moth",
+    ["窦英智"] = "dou yingzhi",
+    ["窦道"] = "sinus tract",
+    ["窦靖童"] = "dou jingtong",
+}
+
+return M

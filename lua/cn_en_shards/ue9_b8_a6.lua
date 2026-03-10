@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["鸦儿胡同"] = "ya'er hutong",
+    ["鸦叫声"] = "crow caw",
+    ["鸦头"] = "crow head",
+    ["鸦巢生凤"] = "phoenix from crow's nest",
+    ["鸦有反哺之义"] = "filial piety",
+    ["鸦片"] = "opium",
+    ["鸦片剂"] = "opiate",
+    ["鸦片战争"] = "opium war",
+    ["鸦片烟"] = "opium smoke",
+    ["鸦片烟瘾"] = "opium addiction",
+    ["鸦片瘾"] = "opium addiction",
+    ["鸦片的"] = "opiate",
+    ["鸦片紫"] = "opium purple",
+    ["鸦片贸易"] = "opium trade",
+    ["鸦片鬼"] = "opium addict",
+    ["鸦群"] = "crow flock",
+    ["鸦胆子"] = "brucea javanica",
+    ["鸦胆子油"] = "brucea javanica oil",
+    ["鸦胆子油乳注射液"] = "brucea javanica oil emulsion injection",
+    ["鸦胆子油口服乳液"] = "brucea javanica oil oral emulsion",
+    ["鸦胆子油软胶囊"] = "brucea javanica oil soft capsule",
+    ["鸦雀"] = "crow",
+    ["鸦雀无声"] = "dead silent",
+    ["鸦风废墟"] = "crowwind ruins",
+    ["鸦飞雀乱"] = "flurry",
+    ["鸦飞鹊乱"] = "chaos",
+    ["鸦鹃"] = "crow pheasant",
+    ["鸦鹊湖乡"] = "yaque lake township",
+    ["鸦默雀静"] = "dead silent",
+}
+
+return M

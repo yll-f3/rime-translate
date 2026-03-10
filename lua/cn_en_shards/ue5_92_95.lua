@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["咕叽"] = "squeak",
+    ["咕叽咕叽"] = "squeak squeak",
+    ["咕呱咕呱"] = "croak croak",
+    ["咕咕"] = "coo",
+    ["咕咕叫"] = "cooing",
+    ["咕咕咕咕咕"] = "coo coo coo coo coo",
+    ["咕咕哝哝"] = "muttering",
+    ["咕咕噜噜"] = "gurgling",
+    ["咕咕是只猫"] = "gugu is a cat",
+    ["咕咕霍夫"] = "gugelhupf",
+    ["咕咚"] = "gudong",
+    ["咕咚一声"] = "with a gudong sound",
+    ["咕哒夫"] = "gudafu",
+    ["咕哝"] = "mutter",
+    ["咕哝声"] = "muttering sound",
+    ["咕哝着"] = "muttering",
+    ["咕哝着说"] = "mutteringly said",
+    ["咕哝道"] = "muttered",
+    ["咕嗒"] = "gurgle",
+    ["咕嘟"] = "gurgle",
+    ["咕噔"] = "gulp",
+    ["咕噜"] = "gurgle",
+    ["咕噜一声"] = "with a gurgle",
+    ["咕噜咕噜"] = "gurgle",
+    ["咕噜噜"] = "gurgle",
+    ["咕噜着"] = "gurgling",
+    ["咕噜肉"] = "sweet and sour pork",
+    ["咕噜鸡"] = "gurgle chicken",
+    ["咕容"] = "squirm",
+    ["咕隆"] = "rumble",
+}
+
+return M

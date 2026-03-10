@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["趴一趴"] = "lie a bit",
+    ["趴下"] = "lie down",
+    ["趴下了"] = "lied down",
+    ["趴下去"] = "lie down",
+    ["趴下来"] = "lie down",
+    ["趴不住"] = "can't stay prone",
+    ["趴了"] = "lay down",
+    ["趴了趴"] = "lay down",
+    ["趴伏"] = "prone",
+    ["趴会"] = "lie down for a while",
+    ["趴会儿"] = "lie down for a bit",
+    ["趴倒"] = "fall prone",
+    ["趴到"] = "lie on",
+    ["趴卧"] = "lie prone",
+    ["趴在"] = "lie on",
+    ["趴在地下"] = "lie on ground",
+    ["趴在床上"] = "lie on bed",
+    ["趴地"] = "lie down",
+    ["趴地下"] = "lie underground",
+    ["趴地菠菜"] = "prostrate spinach",
+    ["趴地龙"] = "prostrate vine",
+    ["趴姿"] = "prone position",
+    ["趴活儿"] = "lie down for work",
+    ["趴的"] = "prone",
+    ["趴着"] = "lying",
+    ["趴着呢"] = "lying there",
+    ["趴着睡"] = "sleep on stomach",
+    ["趴窝"] = "break down",
+    ["趴趴"] = "lie down",
+    ["趴蹄"] = "splayfoot",
+}
+
+return M

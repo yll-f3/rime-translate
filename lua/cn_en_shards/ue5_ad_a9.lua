@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["孩他妈"] = "child's mother",
+    ["孩儿"] = "child",
+    ["孩儿们"] = "children",
+    ["孩儿参"] = "child ginseng",
+    ["孩儿巷"] = "child alley",
+    ["孩儿立志出乡关"] = "child vows to leave hometown",
+    ["孩儿菊"] = "child chrysanthemum",
+    ["孩子"] = "child",
+    ["孩子上学"] = "child goes to school",
+    ["孩子们"] = "children",
+    ["孩子似的"] = "childlike",
+    ["孩子出生"] = "child birth",
+    ["孩子呢"] = "child ne",
+    ["孩子啊"] = "child ah",
+    ["孩子在家"] = "child at home",
+    ["孩子头"] = "child leader",
+    ["孩子头儿"] = "child leader",
+    ["孩子好"] = "child good",
+    ["孩子家"] = "child's home",
+    ["孩子是自己的好"] = "one's own child is the best",
+    ["孩子气"] = "childish",
+    ["孩子王"] = "child king",
+    ["孩子的梦"] = "child's dream",
+    ["孩子站"] = "child station",
+    ["孩子般"] = "childlike",
+    ["孩子长得"] = "child grows",
+    ["孩提"] = "infancy",
+    ["孩提时代"] = "childhood",
+    ["孩童"] = "child",
+    ["孩童时期"] = "childhood period",
+}
+
+return M

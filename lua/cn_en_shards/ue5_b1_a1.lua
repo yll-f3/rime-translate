@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["屡创"] = "repeatedly create",
+    ["屡劝不听"] = "ignore repeated advice",
+    ["屡变星霜"] = "changing seasons",
+    ["屡屡"] = "repeatedly",
+    ["屡屡得手"] = "repeated success",
+    ["屡建"] = "repeatedly built",
+    ["屡建奇功"] = "repeatedly performed remarkable feats",
+    ["屡戒不悛"] = "repeatedly warned but unrepentant",
+    ["屡战屡捷"] = "repeated victories",
+    ["屡战屡胜"] = "constant victories",
+    ["屡战屡败"] = "repeated defeats",
+    ["屡教不改"] = "incorrigible",
+    ["屡有"] = "frequent",
+    ["屡有发生"] = "frequent occurrence",
+    ["屡次"] = "repeatedly",
+    ["屡次三番"] = "repeatedly",
+    ["屡犯"] = "repeat offender",
+    ["屡禁不止"] = "repeatedly prohibited but never stopped",
+    ["屡禁不绝"] = "persist despite repeated bans",
+    ["屡获"] = "repeatedly won",
+    ["屡获殊荣"] = "award-winning",
+    ["屡见"] = "frequently seen",
+    ["屡见不鲜"] = "common occurrence",
+    ["屡见叠出"] = "frequent recurrence",
+    ["屡试"] = "repeated attempts",
+    ["屡试不爽"] = "always effective",
+    ["屡试不第"] = "repeated exam failures",
+    ["屡试屡验"] = "repeatedly proven",
+    ["屡败"] = "repeated defeats",
+    ["屡败屡战"] = "keep fighting after repeated defeats",
+    ["屡进屡退"] = "repeatedly advance and retreat",
+    ["屡遭"] = "repeatedly suffered",
+}
+
+return M

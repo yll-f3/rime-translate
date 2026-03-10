@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["拂了一身还满"] = "brushed off but still full",
+    ["拂动"] = "flutter",
+    ["拂去"] = "brush away",
+    ["拂在"] = "brushing against",
+    ["拂堤杨柳醉春烟"] = "willows brush embankment",
+    ["拂士"] = "scholar",
+    ["拂尘"] = "horsetail whisk",
+    ["拂尽五松山"] = "sweep wusong mountain",
+    ["拂意"] = "displeasure",
+    ["拂拂"] = "fluttering",
+    ["拂拭"] = "wipe",
+    ["拂掉"] = "brush off",
+    ["拂晓"] = "dawn",
+    ["拂晓时"] = "at dawn",
+    ["拂来"] = "blow in",
+    ["拂煦"] = "warm breeze",
+    ["拂窗新柳色"] = "fresh willow colors by the window",
+    ["拂菻国"] = "fulin country",
+    ["拂菻坊"] = "fulin fang",
+    ["拂衣"] = "flick clothes",
+    ["拂衣去"] = "leave in anger",
+    ["拂衣而去"] = "leave in anger",
+    ["拂衣而起"] = "rise and leave in anger",
+    ["拂衣远去"] = "leave quietly",
+    ["拂袖"] = "flick sleeve",
+    ["拂袖而去"] = "leave in anger",
+    ["拂袖而归"] = "return in anger",
+    ["拂袖而起"] = "rise in anger",
+    ["拂过"] = "brushed past",
+    ["拂逆"] = "defy",
+    ["拂面"] = "brush against the face",
+    ["拂面而来"] = "brush against the face",
+}
+
+return M

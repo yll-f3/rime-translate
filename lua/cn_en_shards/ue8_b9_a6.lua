@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["蹦一蹦"] = "jump one jump",
+    ["蹦出"] = "pop out",
+    ["蹦出来"] = "jump out",
+    ["蹦到"] = "bounce to",
+    ["蹦吧啦"] = "bomba",
+    ["蹦床"] = "trampoline",
+    ["蹦床公园"] = "trampoline park",
+    ["蹦床运动"] = "trampoline sports",
+    ["蹦床队"] = "trampoline team",
+    ["蹦得比"] = "bounce higher than",
+    ["蹦极"] = "bungee",
+    ["蹦极跳"] = "bungee jump",
+    ["蹦着"] = "jumping",
+    ["蹦着呢"] = "bouncing",
+    ["蹦起"] = "jump up",
+    ["蹦起来"] = "jump up",
+    ["蹦跳"] = "jump",
+    ["蹦跳着"] = "jumping",
+    ["蹦跶"] = "bounce",
+    ["蹦蹦"] = "bounce",
+    ["蹦蹦儿戏"] = "bouncing play",
+    ["蹦蹦床"] = "trampoline",
+    ["蹦蹦戏"] = "bouncing opera",
+    ["蹦蹦虫"] = "springtail",
+    ["蹦蹦跳"] = "bounce and jump",
+    ["蹦蹦跳跳"] = "bouncing and jumping",
+    ["蹦蹦鸡"] = "bouncing chicken",
+    ["蹦迪"] = "disco dancing",
+    ["蹦高"] = "jump high",
+}
+
+return M

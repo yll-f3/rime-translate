@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["轩冕相袭"] = "hereditary titles",
+    ["轩墨宝宝"] = "xuanmo baby",
+    ["轩尼诗"] = "hennessy",
+    ["轩尼诗道"] = "hennessy road",
+    ["轩岗"] = "xuangang",
+    ["轩敞"] = "spacious",
+    ["轩昂"] = "dignified",
+    ["轩昂自若"] = "composed and dignified",
+    ["轩朗"] = "xuanlang",
+    ["轩楹"] = "eave column",
+    ["轩然"] = "xuanran",
+    ["轩然大波"] = "xuanrandabo",
+    ["轩眉"] = "raised eyebrows",
+    ["轩豁"] = "spacious",
+    ["轩车动行色"] = "carriage sets off",
+    ["轩车来何迟"] = "carriage arrives late",
+    ["轩车载鹤"] = "carriage carries crane",
+    ["轩轩"] = "xuanxuan",
+    ["轩轩甚得"] = "proud",
+    ["轩轾"] = "high and low",
+    ["轩轾不分"] = "indistinguishable",
+    ["轩辕"] = "xuanyuan",
+    ["轩辕寺"] = "xuanyuan temple",
+    ["轩辕庙"] = "xuanyuan temple",
+    ["轩辕敬城"] = "xuanyuan jingcheng",
+    ["轩辕氏"] = "xuanyuan clan",
+    ["轩辕青锋"] = "xuanyuan qingfeng",
+    ["轩辕黄帝"] = "yellow emperor",
+    ["轩辕黄帝陵"] = "yellow emperor mausoleum",
+    ["轩逸"] = "sylphy",
+    ["轩邈"] = "lofty",
+    ["轩鹤冠猴"] = "crane and monkey",
+}
+
+return M

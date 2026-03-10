@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["灾中应急"] = "disaster emergency",
+    ["灾区"] = "disaster area",
+    ["灾厄"] = "calamity",
+    ["灾变"] = "disaster",
+    ["灾后"] = "post-disaster",
+    ["灾后重建"] = "post-disaster reconstruction",
+    ["灾备"] = "disaster recovery",
+    ["灾害"] = "disaster",
+    ["灾害性"] = "disastrous",
+    ["灾害性天气"] = "disastrous weather",
+    ["灾害的"] = "disastrous",
+    ["灾年"] = "famine year",
+    ["灾异"] = "disaster",
+    ["灾患"] = "disaster",
+    ["灾情"] = "disaster situation",
+    ["灾星"] = "jinx",
+    ["灾殃"] = "disaster",
+    ["灾民"] = "victims",
+    ["灾祸"] = "calamity",
+    ["灾荒"] = "famine",
+    ["灾难"] = "disaster",
+    ["灾难发生"] = "disaster strikes",
+    ["灾难性"] = "catastrophic",
+    ["灾难恢复"] = "disaster recovery",
+    ["灾难恢复计划"] = "disaster recovery plan",
+    ["灾难无情"] = "disaster is merciless",
+    ["灾难深重"] = "disaster-ridden",
+    ["灾难片"] = "disaster movie",
+    ["灾难级"] = "disastrous level",
+    ["灾难降临"] = "disaster falls",
+    ["灾难面前"] = "in the face of disaster",
+}
+
+return M

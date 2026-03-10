@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["帽上"] = "on the hat",
+    ["帽儿胡同"] = "maoer hutong",
+    ["帽圈"] = "hat band",
+    ["帽子"] = "hat",
+    ["帽子先生"] = "mr. hat",
+    ["帽子戏法"] = "hat trick",
+    ["帽峰公园"] = "maofeng park",
+    ["帽带"] = "hatband",
+    ["帽形枪水蚤"] = "cap-shaped copepod",
+    ["帽形真哲水蚤"] = "cap-shaped copepod",
+    ["帽徽"] = "cap badge",
+    ["帽斑紫天牛"] = "purple longhorn",
+    ["帽楦"] = "hat stretcher",
+    ["帽檐"] = "hat brim",
+    ["帽状宽胸蛛"] = "wide-chested hood spider",
+    ["帽状结构"] = "hood structure",
+    ["帽状腱膜"] = "galea aponeurotica",
+    ["帽状锚首虫"] = "hooded anchor worm",
+    ["帽状隙蛛"] = "hooded crevice spider",
+    ["帽盒"] = "hatbox",
+    ["帽盔"] = "helmet",
+    ["帽盔儿"] = "helmet",
+    ["帽缨"] = "hat tassel",
+    ["帽翅"] = "hat wings",
+    ["帽耳"] = "hat ear",
+    ["帽舌"] = "visor",
+    ["帽花"] = "hat ornament",
+    ["帽茎指环虫"] = "hooded ringworm",
+    ["帽蚶科"] = "arcidae",
+    ["帽蛇"] = "hat snake",
+    ["帽衫"] = "hoodie",
+    ["帽铃水母"] = "bell jellyfish",
+}
+
+return M

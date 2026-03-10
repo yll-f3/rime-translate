@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["誓不"] = "vow not",
+    ["誓不两立"] = "sworn enemies",
+    ["誓不举家走"] = "vow not to move family",
+    ["誓不出嫁"] = "vow not to marry",
+    ["誓不回头"] = "vow not to turn back",
+    ["誓不甘休"] = "vow not to rest",
+    ["誓不罢休"] = "vow not to give up",
+    ["誓以皦日"] = "swear by the bright sun",
+    ["誓同生死"] = "swear to live and die together",
+    ["誓天断发"] = "swear break hair",
+    ["誓山盟海"] = "solemn vows",
+    ["誓师"] = "mobilize",
+    ["誓师大会"] = "pledge rally",
+    ["誓愿"] = "vow",
+    ["誓扫匈奴不顾身"] = "vow to fight xiongnu",
+    ["誓无二心"] = "no second thoughts",
+    ["誓死"] = "pledge to die",
+    ["誓死不从"] = "refuse unto death",
+    ["誓死不屈"] = "unyielding till death",
+    ["誓死不渝"] = "unwavering till death",
+    ["誓死不贰"] = "unswerving loyalty",
+    ["誓死不降"] = "never surrender",
+    ["誓死保卫"] = "defend to death",
+    ["誓死力争"] = "fight desperately",
+    ["誓死捍卫"] = "guard with life",
+    ["誓约"] = "pledge",
+    ["誓要"] = "swear to",
+    ["誓言"] = "oath",
+    ["誓言永恒"] = "oath eternal",
+    ["誓词"] = "oath",
+}
+
+return M

@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["壶中"] = "in the pot",
+    ["壶中之天"] = "heaven in a pot",
+    ["壶中日月"] = "sun and moon in a pot",
+    ["壶中村"] = "pot village",
+    ["壶关"] = "huguan",
+    ["壶关县"] = "huguan county",
+    ["壶关羊汤"] = "huguan mutton soup",
+    ["壶内"] = "inside the pot",
+    ["壶冲油茶"] = "pot brewed oil tea",
+    ["壶口"] = "hukou",
+    ["壶口瀑布"] = "hukou waterfall",
+    ["壶口飞瀑"] = "hukou waterfall",
+    ["壶嘴"] = "spout",
+    ["壶壶"] = "kettle",
+    ["壶壶油茶"] = "huhu oil tea",
+    ["壶天日月"] = "pot sky sun moon",
+    ["壶底"] = "pot bottom",
+    ["壶把"] = "pot handle",
+    ["壶提提"] = "hutiti",
+    ["壶浆塞道"] = "road filled with offerings",
+    ["壶浆盈路"] = "road filled with offerings",
+    ["壶盖"] = "kettle lid",
+    ["壶胆"] = "pot liner",
+    ["壶腹"] = "ampulla",
+    ["壶菌"] = "chytrid",
+    ["壶觞"] = "wine vessels",
+    ["壶里"] = "in the pot",
+    ["壶里乾坤"] = "world in a pot",
+    ["壶锥帽虫"] = "pot cone cap worm",
+}
+
+return M

@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["悦万城"] = "joy city",
+    ["悦享会"] = "joyful sharing",
+    ["悦享健康"] = "enjoy health",
+    ["悦亲戚之情话"] = "joyful family talks",
+    ["悦人"] = "please people",
+    ["悦人耳目"] = "delight senses",
+    ["悦刻"] = "relx",
+    ["悦华路"] = "yuehua road",
+    ["悦华酒店"] = "yuehua hotel",
+    ["悦可婷"] = "yueketing",
+    ["悦和城"] = "yuehe city",
+    ["悦园路"] = "yueyuan road",
+    ["悦己者"] = "self-pleaser",
+    ["悦怠步甲"] = "pleasing lazy beetle",
+    ["悦悦"] = "yueyue",
+    ["悦意"] = "joyful meaning",
+    ["悦服"] = "pleased submit",
+    ["悦来"] = "yue lai",
+    ["悦来大酒店"] = "yue lai hotel",
+    ["悦汇城"] = "happy valley city",
+    ["悦涛雅苑"] = "yuetao yayuan",
+    ["悦目"] = "pleasing to eye",
+    ["悦目娱心"] = "delightful",
+    ["悦耳"] = "pleasant sound",
+    ["悦耳之音"] = "pleasant sound",
+    ["悦耳动听"] = "melodious",
+    ["悦芙媞"] = "yuefuti",
+    ["悦达"] = "yueda",
+    ["悦铃"] = "happy ring",
+    ["悦麒美寓"] = "yueqi meiyu",
+}
+
+return M

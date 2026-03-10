@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["叛乱"] = "rebellion",
+    ["叛乱分子"] = "insurgents",
+    ["叛乱者"] = "rebel",
+    ["叛亡"] = "rebel and flee",
+    ["叛党"] = "betray party",
+    ["叛党叛国"] = "treason",
+    ["叛兵"] = "rebel soldier",
+    ["叛兵骷髅"] = "rebel skeleton",
+    ["叛军"] = "rebel army",
+    ["叛军哨探"] = "rebel scout",
+    ["叛军驯兽师"] = "rebel beastmaster",
+    ["叛匪"] = "rebel",
+    ["叛卖"] = "betrayal",
+    ["叛变"] = "betray",
+    ["叛变的迪菲亚盗贼"] = "defias traitor",
+    ["叛国"] = "treason",
+    ["叛国罪"] = "treason crime",
+    ["叛将"] = "rebel general",
+    ["叛徒"] = "traitor",
+    ["叛敌"] = "betray enemy",
+    ["叛教"] = "apostasy",
+    ["叛狱无间"] = "prison break",
+    ["叛离"] = "defection",
+    ["叛离者"] = "renegade",
+    ["叛贼"] = "traitor",
+    ["叛逃"] = "defection",
+    ["叛逆"] = "rebellion",
+    ["叛逆性"] = "rebelliousness",
+    ["叛逆的"] = "rebellious",
+    ["叛逆者"] = "rebel",
+    ["叛逆行为"] = "rebellious act",
+}
+
+return M

@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["岸上"] = "ashore",
+    ["岸上乡"] = "ashang township",
+    ["岸上村"] = "ashang village",
+    ["岸上蓝山"] = "ashore blue mountain",
+    ["岸优太"] = "kishi yuta",
+    ["岸信介"] = "kishi nobusuke",
+    ["岸信夫"] = "kishida nobuo",
+    ["岸兜村"] = "andou village",
+    ["岸基"] = "shore-based",
+    ["岸壁"] = "quay wall",
+    ["岸头"] = "shore head",
+    ["岸川圣也"] = "kishikawa masaya",
+    ["岸惠子"] = "keiko kishi",
+    ["岸本"] = "kishimoto",
+    ["岸本加世子"] = "kayoko kishimoto",
+    ["岸本早未"] = "hayami kishimoto",
+    ["岸本齐史"] = "masashi kishimoto",
+    ["岸标"] = "shore beacon",
+    ["岸桥"] = "shore bridge",
+    ["岸滩"] = "shore beach",
+    ["岸炮"] = "coastal artillery",
+    ["岸然"] = "dignified",
+    ["岸田"] = "kishida",
+    ["岸田文雄"] = "fumio kishida",
+    ["岸线"] = "shoreline",
+    ["岸舰导弹"] = "shore-to-ship missile",
+    ["岸花焦灼尚余红"] = "shore flowers scorched yet still red",
+    ["岸花飞送客"] = "shore flowers bid farewell to guests",
+    ["岸西"] = "west bank",
+    ["岸谷之变"] = "change of shore and valley",
+    ["岸边"] = "shore",
+    ["岸风翻夕浪"] = "shore wind turns evening waves",
+}
+
+return M

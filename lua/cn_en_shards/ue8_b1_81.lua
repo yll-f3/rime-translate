@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["豁不出"] = "cannot risk",
+    ["豁了"] = "forgiven",
+    ["豁亮"] = "bright",
+    ["豁人耳目"] = "enlighten people's eyes and ears",
+    ["豁免"] = "exemption",
+    ["豁免权"] = "immunity",
+    ["豁出"] = "risk",
+    ["豁出去"] = "go all out",
+    ["豁出去了"] = "go for broke",
+    ["豁出来"] = "risk it",
+    ["豁口"] = "gap",
+    ["豁口截舌"] = "cut out the tongue",
+    ["豁嘴"] = "harelip",
+    ["豁子"] = "gap",
+    ["豁开"] = "split open",
+    ["豁开了"] = "split open",
+    ["豁朗"] = "open and bright",
+    ["豁然"] = "suddenly",
+    ["豁然冰释"] = "suddenly clear",
+    ["豁然大悟"] = "suddenly realize",
+    ["豁然开悟"] = "sudden enlightenment",
+    ["豁然开朗"] = "suddenly see the light",
+    ["豁然意解"] = "sudden understanding",
+    ["豁然确斯"] = "suddenly clear and certain",
+    ["豁然贯通"] = "sudden comprehension",
+    ["豁然雾解"] = "suddenly clear as mist disperses",
+    ["豁然顿悟"] = "suddenly enlightened",
+    ["豁边"] = "overstep",
+    ["豁达"] = "open-minded",
+    ["豁达先生"] = "mr. open-minded",
+    ["豁达大度"] = "magnanimous",
+    ["豁飘"] = "huo piao",
+}
+
+return M

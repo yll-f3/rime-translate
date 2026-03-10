@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["韶乐"] = "shaomusic",
+    ["韶九胡同"] = "shaojiu hutong",
+    ["韶光"] = "time",
+    ["韶光似箭"] = "time flies",
+    ["韶光淑气"] = "pleasant spring",
+    ["韶关"] = "shaoguan",
+    ["韶关中院"] = "shaoguan court",
+    ["韶关剧院"] = "shaoguan theater",
+    ["韶关国家森林公园"] = "shaoguan national forest park",
+    ["韶关地区人民医院"] = "shaoguan regional people's hospital",
+    ["韶关大学"] = "shaoguan university",
+    ["韶关学院"] = "shaoguan college",
+    ["韶关市"] = "shaoguan city",
+    ["韶关市委党校"] = "shaoguan party school",
+    ["韶关市第一中学"] = "shaoguan no.1 middle school",
+    ["韶关市第九中学"] = "shaoguan no.9 middle school",
+    ["韶关市高级技工学校"] = "shaoguan advanced technical school",
+    ["韶关日报社"] = "shaoguan daily press",
+    ["韶关火车站"] = "shaoguan railway station",
+    ["韶关路"] = "shaoguan road",
+    ["韶华"] = "youth",
+    ["韶山"] = "shaoshan",
+    ["韶山冲"] = "shaoshan chong",
+    ["韶山市"] = "shaoshan city",
+    ["韶山毛家菜"] = "shaoshan mao family cuisine",
+    ["韶山路"] = "shaoshan road",
+    ["韶州师范"] = "shaozhou normal school",
+    ["韶秀"] = "graceful",
+    ["韶颜稚齿"] = "youthful beauty",
+}
+
+return M

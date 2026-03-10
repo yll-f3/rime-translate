@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["枉为"] = "in vain",
+    ["枉入诗人赋咏来"] = "vainly entering poets' verses",
+    ["枉凝眉"] = "vain knit brows",
+    ["枉勘虚招"] = "false confession",
+    ["枉口拔舌"] = "slander",
+    ["枉墨矫绳"] = "distort rules",
+    ["枉屈"] = "wronged",
+    ["枉抛心力"] = "wasted effort",
+    ["枉断"] = "unjust judgment",
+    ["枉曲直凑"] = "twist justice",
+    ["枉杀"] = "wrongful killing",
+    ["枉此"] = "wang ci",
+    ["枉死"] = "wrongful death",
+    ["枉法"] = "pervert justice",
+    ["枉法徇私"] = "bend law for personal gain",
+    ["枉法营私"] = "pervert justice for profit",
+    ["枉法裁判"] = "pervert justice in judgment",
+    ["枉法追诉"] = "malicious prosecution",
+    ["枉然"] = "in vain",
+    ["枉直同贯"] = "same principle",
+    ["枉直随形"] = "adapt to shape",
+    ["枉矢哨壶"] = "crooked arrow whistling pot",
+    ["枉矫过激"] = "overcorrecting",
+    ["枉自"] = "in vain",
+    ["枉费"] = "waste",
+    ["枉费口舌"] = "waste breath",
+    ["枉费心机"] = "scheme in vain",
+    ["枉辔学步"] = "learn superficially",
+    ["枉顾"] = "ignore",
+    ["枉驾"] = "condescend to visit",
+}
+
+return M

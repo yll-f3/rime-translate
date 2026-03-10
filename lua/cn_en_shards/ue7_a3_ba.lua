@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["磺乙基"] = "sulfoethyl",
+    ["磺化"] = "sulfonation",
+    ["磺厂"] = "sulfur plant",
+    ["磺基丙氨酸"] = "sulfonylalanine",
+    ["磺基转移酶"] = "sulfotransferase",
+    ["磺胺"] = "sulfonamide",
+    ["磺胺二甲嘧啶"] = "sulfamethazine",
+    ["磺胺二甲基嘧啶"] = "sulfadimidine",
+    ["磺胺喹恶啉钠"] = "sulfaquinoxaline sodium",
+    ["磺胺嘧啶"] = "sulfadiazine",
+    ["磺胺嘧啶片"] = "sulfadiazine tablets",
+    ["磺胺嘧啶钠注射液"] = "sulfadiazine sodium injection",
+    ["磺胺嘧啶银"] = "silver sulfadiazine",
+    ["磺胺嘧啶银乳膏"] = "silver sulfadiazine cream",
+    ["磺胺嘧啶锌"] = "sulfadiazine zinc",
+    ["磺胺噻唑"] = "sulfathiazole",
+    ["磺胺多辛"] = "sulfadoxine",
+    ["磺胺异𫫇唑"] = "sulfisoxazole",
+    ["磺胺甲𫫇唑"] = "sulfamethoxazole",
+    ["磺胺类"] = "sulfonamides",
+    ["磺胺类药物"] = "sulfonamide drugs",
+    ["磺胺脒"] = "sulfaguanidine",
+    ["磺胺药"] = "sulfa drug",
+    ["磺胺醋酰钠"] = "sulfacetamide sodium",
+    ["磺胺间甲氧嘧啶"] = "sulfamonomethoxine",
+    ["磺脲"] = "sulfonylurea",
+    ["磺苄西林"] = "sulbenicillin",
+    ["磺苄西林钠"] = "sulbenicillin sodium",
+    ["磺酰胺"] = "sulfonamide",
+    ["磺酸"] = "sulfonic acid",
+    ["磺酸盐"] = "sulfonate",
+    ["磺酸钠"] = "sodium sulfonate",
+}
+
+return M

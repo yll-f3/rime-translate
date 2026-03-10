@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["赴东海而死"] = "drown in east sea",
+    ["赴京"] = "go to beijing",
+    ["赴任"] = "assume office",
+    ["赴会"] = "attend meeting",
+    ["赴华"] = "travel to china",
+    ["赴台"] = "go to taiwan",
+    ["赴台大熊猫"] = "pandas to taiwan",
+    ["赴宴"] = "attend banquet",
+    ["赴席"] = "attend a banquet",
+    ["赴敌"] = "engage enemy",
+    ["赴日"] = "go to japan",
+    ["赴死"] = "go to death",
+    ["赴汤蹈火"] = "go through fire and water",
+    ["赴法"] = "go to france",
+    ["赴港"] = "go to hong kong",
+    ["赴港澳"] = "travel to hong kong and macau",
+    ["赴澳"] = "australia-bound",
+    ["赴火蹈刃"] = "march into fire and tread on blades",
+    ["赴约"] = "keep appointment",
+    ["赴美"] = "go to the usa",
+    ["赴美上市"] = "list in the usa",
+    ["赴考"] = "take an exam",
+    ["赴英"] = "go to uk",
+    ["赴英国"] = "go to britain",
+    ["赴藏"] = "go to tibet",
+    ["赴险"] = "risk danger",
+    ["赴险如夷"] = "face danger as if on level ground",
+    ["赴难"] = "go to face disaster",
+    ["赴韩"] = "travel to korea",
+}
+
+return M

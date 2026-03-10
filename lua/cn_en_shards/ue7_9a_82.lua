@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["皂刺"] = "gleditsia spine",
+    ["皂化"] = "saponification",
+    ["皂化值"] = "saponification value",
+    ["皂化反应"] = "saponification reaction",
+    ["皂君"] = "zaojun",
+    ["皂君东里"] = "zaojun east lane",
+    ["皂君庙"] = "zao jun temple",
+    ["皂君庙社区"] = "zao jun temple community",
+    ["皂基"] = "soap base",
+    ["皂户"] = "zaohu",
+    ["皂河桥"] = "zaohe bridge",
+    ["皂片"] = "soap flake",
+    ["皂甲屯"] = "zaojiatun",
+    ["皂甲屯村"] = "zaojiatun village",
+    ["皂白"] = "black and white",
+    ["皂白分明"] = "clear distinction",
+    ["皂盒"] = "soap box",
+    ["皂石"] = "soapstone",
+    ["皂矾"] = "green vitriol",
+    ["皂素"] = "saponin",
+    ["皂苷"] = "saponin",
+    ["皂荚"] = "honey locust",
+    ["皂荚后丽盲蝽"] = "honey locust bug",
+    ["皂荚树"] = "honey locust tree",
+    ["皂荚糖胶"] = "honey locust gum",
+    ["皂角"] = "soapberry",
+    ["皂角刺"] = "gleditsia spine",
+    ["皂角垭村"] = "zaojiaoya village",
+    ["皂角树"] = "soapberry tree",
+    ["皂角豆象"] = "bruchidius sauteri",
+    ["皂隶"] = "yamen runner",
+}
+
+return M

@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["汾东公寓"] = "fendong apartment",
+    ["汾宁白糖棉花糕"] = "fenning white sugar cotton cake",
+    ["汾州胡同"] = "fenzhou hutong",
+    ["汾庄"] = "fenzhuang",
+    ["汾水"] = "fen river",
+    ["汾水小区"] = "fen river community",
+    ["汾水小区总站"] = "fen river community terminal",
+    ["汾水村"] = "fen river village",
+    ["汾水绕关斜"] = "fen river winding pass",
+    ["汾水道"] = "fen river road",
+    ["汾江南"] = "south fenjiang",
+    ["汾江立交"] = "fenjiang interchange",
+    ["汾江路"] = "fenjiang road",
+    ["汾河"] = "fenhe river",
+    ["汾河公园"] = "fenhe river park",
+    ["汾河谷地"] = "fenhe river valley",
+    ["汾河道"] = "fenhe river course",
+    ["汾湖蟹"] = "fenhu lake crab",
+    ["汾芳王"] = "fenfang king",
+    ["汾西县"] = "fenxi county",
+    ["汾西路"] = "fenxi road",
+    ["汾酒"] = "fenjiu",
+    ["汾酒厂"] = "fenjiu distillery",
+    ["汾酒牛肉"] = "fenjiu beef",
+    ["汾阳"] = "fenyang",
+    ["汾阳县"] = "fenyang county",
+    ["汾阳学院"] = "fenyang college",
+    ["汾阳市"] = "fenyang city",
+    ["汾阳路"] = "fenyang road",
+    ["汾陈村"] = "fenchen village",
+}
+
+return M

@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["蔬果"] = "fruits and vegetables",
+    ["蔬果市场"] = "produce market",
+    ["蔬果搭配"] = "fruit vegetable mix",
+    ["蔬水箪瓢"] = "frugal living",
+    ["蔬菜"] = "vegetables",
+    ["蔬菜公司"] = "vegetable company",
+    ["蔬菜农场"] = "vegetable farm",
+    ["蔬菜基地"] = "vegetable base",
+    ["蔬菜大棚"] = "vegetable greenhouse",
+    ["蔬菜学"] = "olericulture",
+    ["蔬菜批发"] = "vegetable wholesale",
+    ["蔬菜批发市场"] = "vegetable wholesale market",
+    ["蔬菜栽培"] = "vegetable cultivation",
+    ["蔬菜比萨"] = "vegetable pizza",
+    ["蔬菜水果"] = "vegetables fruits",
+    ["蔬菜汁"] = "vegetable juice",
+    ["蔬菜汤"] = "vegetable soup",
+    ["蔬菜沙拉"] = "vegetable salad",
+    ["蔬菜炸牛脑"] = "fried ox brain with vegetables",
+    ["蔬菜炸羊排"] = "fried lamb chop with vegetables",
+    ["蔬菜烤牛肉"] = "roast beef with vegetables",
+    ["蔬菜烤鸡鸭"] = "roast chicken duck with vegetables",
+    ["蔬菜牛肉扒"] = "vegetable beef steak",
+    ["蔬菜猪肉饼"] = "vegetable pork patty",
+    ["蔬菜生产"] = "vegetable production",
+    ["蔬菜皮炎"] = "vegetable dermatitis",
+    ["蔬菜种植"] = "vegetable planting",
+    ["蔬菜类"] = "vegetable category",
+    ["蔬菜维生素汤"] = "vegetable vitamin soup",
+    ["蔬菜茶碗蒸"] = "vegetable chawanmushi",
+    ["蔬菜饼干"] = "vegetable biscuits",
+    ["蔬菜鸡肉饼"] = "vegetable chicken patty",
+}
+
+return M

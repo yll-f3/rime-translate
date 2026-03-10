@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["赋予"] = "endow",
+    ["赋予了"] = "endowed with",
+    ["赋予生命"] = "give life",
+    ["赋以"] = "endow with",
+    ["赋值"] = "assignment",
+    ["赋值函数"] = "assignment function",
+    ["赋值操作符"] = "assignment operator",
+    ["赋值构造函数"] = "assignment constructor",
+    ["赋值语句"] = "assignment statement",
+    ["赋值运算符"] = "assignment operator",
+    ["赋分"] = "assigned score",
+    ["赋分制"] = "scoring system",
+    ["赋初值"] = "initial value",
+    ["赋归"] = "return home",
+    ["赋形剂"] = "excipient",
+    ["赋役"] = "corvée",
+    ["赋得古原草送别"] = "farewell poem",
+    ["赋性"] = "innate nature",
+    ["赋敛"] = "taxation",
+    ["赋有"] = "endowed with",
+    ["赋权"] = "empowerment",
+    ["赋格"] = "fugue",
+    ["赋格曲"] = "fugue",
+    ["赋税"] = "tax",
+    ["赋给你们"] = "grant you",
+    ["赋能"] = "empowerment",
+    ["赋能未来"] = "empowering the future",
+    ["赋诗"] = "compose a poem",
+    ["赋诗必此诗"] = "poetry must be about this",
+    ["赋闲"] = "be idle",
+    ["赋闲在家"] = "stay idle at home",
+    ["赋闲无事"] = "idle with nothing to do",
+}
+
+return M

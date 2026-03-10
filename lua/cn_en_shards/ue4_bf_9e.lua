@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["俞万春"] = "yu wan chun",
+    ["俞伯牙"] = "yu boya",
+    ["俞元泰"] = "yu yuantai",
+    ["俞兆晟"] = "yu zhaosheng",
+    ["俞力工"] = "yu ligong",
+    ["俞君英"] = "yu junying",
+    ["俞大猷"] = "yu dayou",
+    ["俞大猷墓"] = "yu dayou tomb",
+    ["俞姓"] = "yu surname",
+    ["俞家埭村"] = "yujiadai village",
+    ["俞家山"] = "yujiashan",
+    ["俞家巷"] = "yujia lane",
+    ["俞家潭"] = "yujiatan",
+    ["俞平伯"] = "yu pingbo",
+    ["俞弁"] = "yu bian",
+    ["俞承豪"] = "yoo seung ho",
+    ["俞振飞"] = "yu zhenfei",
+    ["俞斌"] = "yu bin",
+    ["俞明震"] = "yu mingzhen",
+    ["俞李妍"] = "yu liyan",
+    ["俞某"] = "a certain yu",
+    ["俞梦孙"] = "yu mengsun",
+    ["俞樾"] = "yu yue",
+    ["俞正声"] = "yu zhengsheng",
+    ["俞正燮"] = "yu zhengxie",
+    ["俞泽辰"] = "yu zechen",
+    ["俞泾浦"] = "yu jing pu",
+    ["俞济时"] = "yu jishi",
+    ["俞翠薇"] = "yu cuiwei",
+    ["俞飞鸿"] = "yufei hong",
+    ["俞飞鹏"] = "yufei peng",
+    ["俞鸿钧"] = "yuhongjun",
+}
+
+return M

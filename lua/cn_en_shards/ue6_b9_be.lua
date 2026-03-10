@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["湾丘彝族乡"] = "wanqiu yi township",
+    ["湾仔"] = "wanchai",
+    ["湾仔区"] = "wanchai district",
+    ["湾仔沙"] = "wanchai sand",
+    ["湾区"] = "bay area",
+    ["湾厦村"] = "wanxia village",
+    ["湾塘"] = "wan tang",
+    ["湾头"] = "wan tou",
+    ["湾子"] = "bay",
+    ["湾子头"] = "wanzi head",
+    ["湾子村"] = "wanzi village",
+    ["湾子里"] = "in the bay",
+    ["湾岸午夜俱乐部"] = "midnight club",
+    ["湾岸蟾蜍"] = "bay toad",
+    ["湾底"] = "bay bottom",
+    ["湾弄"] = "bay lane",
+    ["湾张村"] = "wanzhang village",
+    ["湾沚区"] = "wanzhi district",
+    ["湾沟门乡"] = "wangoumen township",
+    ["湾泊"] = "mooring bay",
+    ["湾流"] = "gulfstream",
+    ["湾湾"] = "taiwan",
+    ["湾潭"] = "wan tan",
+    ["湾角"] = "bay corner",
+    ["湾路"] = "bay road",
+    ["湾里"] = "in the bay",
+    ["湾里区"] = "wanli district",
+    ["湾里小区"] = "wanli residential quarter",
+    ["湾里庙"] = "wanli temple",
+    ["湾里村"] = "wanli village",
+    ["湾鳄"] = "saltwater crocodile",
+}
+
+return M

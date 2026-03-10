@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["捣一捣"] = "pound once",
+    ["捣乱"] = "sabotage",
+    ["捣乱分子"] = "troublemaker",
+    ["捣了捣"] = "poked",
+    ["捣什么乱"] = "what trouble are you making",
+    ["捣动"] = "stir",
+    ["捣固"] = "tamping",
+    ["捣坏"] = "smash",
+    ["捣实"] = "tamp",
+    ["捣弄"] = "fiddle with",
+    ["捣成"] = "pound into",
+    ["捣枕捶床"] = "pound pillow beat bed",
+    ["捣毁"] = "destroy",
+    ["捣烂"] = "mash",
+    ["捣的鬼"] = "devil's work",
+    ["捣碎"] = "crush",
+    ["捣碎机"] = "crusher",
+    ["捣米"] = "pound rice",
+    ["捣练子"] = "pounding song",
+    ["捣药"] = "pound medicine",
+    ["捣药兔长生"] = "pounding rabbit longevity",
+    ["捣蒜"] = "pound garlic",
+    ["捣虚撇抗"] = "feign weakness",
+    ["捣虚敌随"] = "attack the weak, enemy follows",
+    ["捣蛋"] = "make trouble",
+    ["捣蛋鬼"] = "mischief-maker",
+    ["捣蛋鹅"] = "untitled goose game",
+    ["捣衣"] = "beat clothes",
+    ["捣鬼"] = "play tricks",
+    ["捣麻烦"] = "make trouble",
+    ["捣鼓"] = "tinker",
+}
+
+return M

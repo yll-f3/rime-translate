@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["挣不了"] = "can't earn",
+    ["挣不出来"] = "can't break free",
+    ["挣不到"] = "can't earn",
+    ["挣不着"] = "can't get",
+    ["挣个"] = "earn",
+    ["挣了"] = "earned",
+    ["挣了钱"] = "made money",
+    ["挣出"] = "earn out",
+    ["挣分"] = "score points",
+    ["挣到"] = "earn",
+    ["挣命"] = "struggle",
+    ["挣够"] = "earn enough",
+    ["挣够了"] = "earned enough",
+    ["挣大钱"] = "make big money",
+    ["挣工资"] = "earn wages",
+    ["挣开"] = "break open",
+    ["挣得"] = "earn",
+    ["挣得比"] = "earn more",
+    ["挣扎"] = "struggle",
+    ["挣扎着"] = "struggling",
+    ["挣揣"] = "struggle",
+    ["挣断"] = "break free",
+    ["挣来"] = "earned",
+    ["挣着"] = "earn",
+    ["挣脱"] = "break free",
+    ["挣脱了"] = "broke free",
+    ["挣钱"] = "earn money",
+    ["挣钱了"] = "earned money",
+    ["挣钱容易攒钱难"] = "easy to earn hard to save",
+    ["挣面子"] = "save face",
+}
+
+return M

@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["陵与卫律之罪上通于天"] = "grave crimes",
+    ["陵劲淬砺"] = "temper through hardship",
+    ["陵北街"] = "lingbei street",
+    ["陵区"] = "tomb area",
+    ["陵南村"] = "lingnan village",
+    ["陵厉雄健"] = "vigorous and powerful",
+    ["陵县"] = "ling county",
+    ["陵园"] = "cemetery",
+    ["陵园路"] = "cemetery road",
+    ["陵园路口"] = "cemetery intersection",
+    ["陵城街道"] = "lingcheng street",
+    ["陵墓"] = "mausoleum",
+    ["陵夷"] = "decline",
+    ["陵寝"] = "imperial tomb",
+    ["陵川"] = "lingchuan",
+    ["陵川县"] = "lingchuan county",
+    ["陵庙"] = "imperial tomb",
+    ["陵弱暴寡"] = "bully the weak",
+    ["陵替"] = "decline",
+    ["陵水"] = "lingshui",
+    ["陵水县"] = "lingshui county",
+    ["陵水道"] = "lingshui waterway",
+    ["陵水酸粉"] = "lingshui sour rice noodle",
+    ["陵水黎族自治县"] = "lingshui li autonomous county",
+    ["陵江乡"] = "lingjiang township",
+    ["陵西街道"] = "lingxi street",
+    ["陵谷变迁"] = "vicissitudes of time",
+    ["陵谷沧桑"] = "changes of hills and valleys",
+    ["陵谷迁变"] = "changes between hills and valleys",
+    ["陵阳路"] = "lingyang road",
+}
+
+return M

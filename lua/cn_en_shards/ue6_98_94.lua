@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["昔为"] = "once was",
+    ["昔为倡家女"] = "once a singing girl",
+    ["昔人"] = "ancients",
+    ["昔人因梦到青冥"] = "ancients dreamed of heavens",
+    ["昔人已乘黄鹤去"] = "ancients rode away",
+    ["昔别君未婚"] = "unmarried at parting",
+    ["昔在九江上"] = "once on jiujiang",
+    ["昔尧治天下"] = "ancient yao ruled the world",
+    ["昔岁逢太平"] = "peaceful past years",
+    ["昔年"] = "past years",
+    ["昔年八月十五夜"] = "mid-autumn night past",
+    ["昔我同门友"] = "once my classmate",
+    ["昔我往矣"] = "long ago i set out",
+    ["昔日"] = "former days",
+    ["昔日横波目"] = "once sparkling eyes",
+    ["昔日青青今在否"] = "green then, still now",
+    ["昔日风采"] = "past glory",
+    ["昔日黄花"] = "bygones",
+    ["昔日龌龊不足夸"] = "past squalor unworthy",
+    ["昔时"] = "former times",
+    ["昔昔都成玦"] = "past is incomplete",
+    ["昔有琉璃瓦"] = "once upon a time in liuliwa",
+    ["昔看黄菊与君别"] = "parted with chrysanthemums",
+    ["昔者"] = "in the past",
+    ["昔者庄周梦为蝴蝶"] = "zhuangzi dreamed of a butterfly",
+    ["昔者禹抑洪水"] = "yu controlled floods",
+    ["昔色乡"] = "xise township",
+    ["昔贤多使气"] = "ancients valued spirit",
+    ["昔闻洞庭水"] = "once heard of dongting lake",
+    ["昔阳县"] = "xiyang county",
+    ["昔阳头脑"] = "xiyang brain",
+    ["昔饮雩泉别常山"] = "drinking yu spring farewell changshan",
+}
+
+return M

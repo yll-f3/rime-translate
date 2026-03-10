@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["堪为"] = "deserve to be",
+    ["堪以告慰"] = "comforting",
+    ["堪培拉"] = "canberra",
+    ["堪培拉的风"] = "canberra wind",
+    ["堪堪"] = "barely",
+    ["堪察加"] = "kamchatka",
+    ["堪察加副狮子鱼"] = "kamchatka false lionfish",
+    ["堪察加北极地松鼠"] = "kamchatka arctic ground squirrel",
+    ["堪察加半岛"] = "kamchatka peninsula",
+    ["堪布"] = "khenpo",
+    ["堪当"] = "deserve",
+    ["堪当大任"] = "worthy of great responsibility",
+    ["堪当重任"] = "capable of heavy responsibility",
+    ["堪忧"] = "worrying",
+    ["堪怜"] = "pitiful",
+    ["堪托死生"] = "trust with life",
+    ["堪比"] = "comparable",
+    ["堪称"] = "deserve to be called",
+    ["堪称一绝"] = "unique",
+    ["堪称典范"] = "exemplary",
+    ["堪称是"] = "can be called",
+    ["堪称楷模"] = "model",
+    ["堪称第一"] = "second to none",
+    ["堪笑兰台公子"] = "mock lan tai lord",
+    ["堪舆"] = "feng shui",
+    ["堪舆学"] = "geomancy",
+    ["堪舆家"] = "geomancer",
+    ["堪萨斯"] = "kansas",
+    ["堪萨斯州"] = "kansas state",
+    ["堪达罕"] = "kandahan",
+}
+
+return M

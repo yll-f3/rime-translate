@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["麝子油醇"] = "muscone alcohol",
+    ["麝月"] = "sheyue",
+    ["麝牛"] = "muskox",
+    ["麝香"] = "musk",
+    ["麝香保心丸"] = "musk heart-protecting pill",
+    ["麝香壮骨膏"] = "shexiang zhuanggu plaster",
+    ["麝香心脑乐片"] = "shexiang xinnao le tablet",
+    ["麝香心脑乐胶囊"] = "shexiang xinnao le capsule",
+    ["麝香心脑通胶囊"] = "shexiang xinnao tong capsule",
+    ["麝香抗栓丸"] = "musk anti-thrombosis pill",
+    ["麝香接骨胶囊"] = "musk bone-setting capsule",
+    ["麝香海马追风膏"] = "musk seahorse wind-chasing plaster",
+    ["麝香狗皮膏"] = "musk dogskin plaster",
+    ["麝香猫咖啡"] = "kopi luwak",
+    ["麝香痔疮栓"] = "shexiang zhichuang suppository",
+    ["麝香眠石竹"] = "musk sleep dianthus",
+    ["麝香石竹"] = "carnation",
+    ["麝香祛痛搽剂"] = "musk pain-relieving liniment",
+    ["麝香祛痛气雾剂"] = "musk pain-relieving aerosol",
+    ["麝香舒活精"] = "musk soothing essence",
+    ["麝香草"] = "thyme",
+    ["麝香草酚"] = "thymol",
+    ["麝香草酚蓝"] = "thymol blue",
+    ["麝香草酚酞"] = "thymolphthalein",
+    ["麝香跌打风湿膏"] = "musk trauma rheumatic plaster",
+    ["麝香追风膏"] = "shexiang zhuifeng plaster",
+    ["麝香酮"] = "muscone",
+    ["麝香镇痛膏"] = "shexiang zhentong plaster",
+    ["麝香风湿胶囊"] = "musk rheumatism capsule",
+}
+
+return M

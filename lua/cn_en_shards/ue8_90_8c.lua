@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["萌到"] = "adorable",
+    ["萌动"] = "budding",
+    ["萌发"] = "germinate",
+    ["萌发了"] = "germinated",
+    ["萌妹"] = "cute girl",
+    ["萌妻"] = "cute wife",
+    ["萌娃"] = "cute baby",
+    ["萌娘"] = "moe girl",
+    ["萌娘百科"] = "moegirlpedia",
+    ["萌宠"] = "cute pet",
+    ["萌新"] = "newbie",
+    ["萌死"] = "die of cuteness",
+    ["萌渚岭"] = "mengzhu ridge",
+    ["萌照"] = "cute photo",
+    ["萌生"] = "germinate",
+    ["萌系"] = "moe style",
+    ["萌芽"] = "sprout",
+    ["萌芽期"] = "germination period",
+    ["萌芽杓蛤"] = "sprouting clam",
+    ["萌芽状态"] = "germination",
+    ["萌芽贷"] = "sprout loan",
+    ["萌芽阶段"] = "sprouting stage",
+    ["萌萌"] = "cute",
+    ["萌萌的"] = "adorable",
+    ["萌蘖"] = "tillering",
+    ["萌虻"] = "gadfly",
+    ["萌黄"] = "sprouting yellow",
+    ["萌黄帆美"] = "moegi homi",
+    ["萌黄绘萌"] = "moe yellow",
+}
+
+return M

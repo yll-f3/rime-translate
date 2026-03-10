@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["娄义华"] = "lou yihua",
+    ["娄会峰"] = "lou huifeng",
+    ["娄健"] = "lou jian",
+    ["娄园"] = "lou garden",
+    ["娄姓"] = "louxing",
+    ["娄子"] = "trouble",
+    ["娄家庄"] = "lou family village",
+    ["娄宿"] = "lousu",
+    ["娄山关"] = "loushan pass",
+    ["娄山关路"] = "loushan pass road",
+    ["娄山关镇"] = "loushan pass town",
+    ["娄山路"] = "loushan road",
+    ["娄山道"] = "loushan road",
+    ["娄峪村"] = "louyu village",
+    ["娄底"] = "loudi",
+    ["娄底中院"] = "loudi intermediate court",
+    ["娄底华溪蟹"] = "loudi chinese crab",
+    ["娄底市"] = "loudi city",
+    ["娄星"] = "louxing",
+    ["娄星区"] = "louxing qu",
+    ["娄村满族乡"] = "loucun manchu township",
+    ["娄桥"] = "louqiao",
+    ["娄桥中学"] = "louqiao middle school",
+    ["娄桥镇"] = "louqiao town",
+    ["娄烦"] = "loufan",
+    ["娄烦县"] = "loufan county",
+    ["娄烨"] = "louye",
+    ["娄葑镇"] = "loufeng town",
+    ["娄雷"] = "lou lei",
+}
+
+return M

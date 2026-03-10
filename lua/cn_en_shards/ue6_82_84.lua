@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["悄声"] = "whisper",
+    ["悄寂"] = "silent",
+    ["悄悄"] = "quietly",
+    ["悄悄冥冥"] = "silent",
+    ["悄悄地"] = "quietly",
+    ["悄悄地问"] = "whisper",
+    ["悄悄摸摸"] = "sneaky",
+    ["悄悄是别离的笙箫"] = "silent farewell",
+    ["悄悄的"] = "quiet",
+    ["悄悄的我走了"] = "quiet departure",
+    ["悄悄离开"] = "sneak away",
+    ["悄悄至更阑"] = "late night",
+    ["悄悄行动"] = "covert op",
+    ["悄悄话"] = "whisper",
+    ["悄悄过去"] = "slip by",
+    ["悄悄默默"] = "quiet",
+    ["悄摸"] = "stealthy",
+    ["悄摸摸"] = "sneaky",
+    ["悄无声息"] = "silent",
+    ["悄无声息间"] = "silently",
+    ["悄没声"] = "silent",
+    ["悄没声儿"] = "silently",
+    ["悄然"] = "silently",
+    ["悄然兴起"] = "emerge quietly",
+    ["悄然无声"] = "soundless",
+    ["悄然离去"] = "leave quietly",
+    ["悄然而去"] = "slip away",
+    ["悄语"] = "whisper",
+    ["悄默声"] = "quietly",
+}
+
+return M

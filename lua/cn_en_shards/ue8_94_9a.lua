@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["蔚为壮观"] = "magnificent",
+    ["蔚为大观"] = "spectacular",
+    ["蔚为奇观"] = "remarkable",
+    ["蔚为风潮"] = "become popular",
+    ["蔚县"] = "yu county",
+    ["蔚县剪纸"] = "yu county paper-cut",
+    ["蔚山工厂"] = "ulsan plant",
+    ["蔚山现代"] = "hyundai ulsan",
+    ["蔚山现代队"] = "ulsan hyundai",
+    ["蔚山路"] = "ulsan road",
+    ["蔚州镇"] = "yuzhou town",
+    ["蔚成大观"] = "grand spectacle",
+    ["蔚成风气"] = "trend",
+    ["蔚文"] = "weiwen",
+    ["蔚来"] = "nio",
+    ["蔚汾镇"] = "weifen town",
+    ["蔚然"] = "flourishing",
+    ["蔚然可观"] = "remarkable",
+    ["蔚然成风"] = "become common practice",
+    ["蔚然花海"] = "floral sea",
+    ["蔚蓝"] = "azure",
+    ["蔚蓝之美"] = "beauty of azure",
+    ["蔚蓝之都"] = "azure capital",
+    ["蔚蓝星座"] = "azure constellation",
+    ["蔚蓝水岸"] = "azure waterfront",
+    ["蔚蓝的天"] = "azure sky",
+    ["蔚蓝色"] = "azure blue",
+    ["蔚蓝追风鸟"] = "azure windrider",
+    ["蔚蓝锂芯"] = "azure lithium core",
+    ["蔚逐虎蛾"] = "arctia yuena",
+}
+
+return M

@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["驯从"] = "obedience",
+    ["驯养"] = "domestication",
+    ["驯兽"] = "animal taming",
+    ["驯兽城"] = "beastmaster city",
+    ["驯兽师"] = "beastmaster",
+    ["驯兽师戒指"] = "beastmaster ring",
+    ["驯化"] = "domestication",
+    ["驯化了"] = "domesticated",
+    ["驯善"] = "tame and kind",
+    ["驯导"] = "training",
+    ["驯悍记"] = "taming of the shrew",
+    ["驯扰"] = "tame and docile",
+    ["驯服"] = "tame",
+    ["驯服工具"] = "taming tool",
+    ["驯服的动物"] = "tamed animal",
+    ["驯服野兽"] = "tame beast",
+    ["驯海路"] = "sea route taming",
+    ["驯熟"] = "tame",
+    ["驯犬"] = "dog taming",
+    ["驯狗"] = "dog taming",
+    ["驯狮者"] = "lion tamer",
+    ["驯良"] = "tame",
+    ["驯顺"] = "docile",
+    ["驯马"] = "horse training",
+    ["驯马人"] = "horse trainer",
+    ["驯马场"] = "horse training ground",
+    ["驯马师"] = "horse trainer",
+    ["驯鹿"] = "reindeer",
+    ["驯鹿尾"] = "reindeer tail",
+    ["驯鹿角胶"] = "reindeer antler glue",
+    ["驯龙"] = "dragon taming",
+}
+
+return M

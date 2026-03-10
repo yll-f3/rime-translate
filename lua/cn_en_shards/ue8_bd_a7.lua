@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["轧了"] = "rolled",
+    ["轧伤"] = "run over",
+    ["轧光"] = "glazing",
+    ["轧出"] = "roll out",
+    ["轧制"] = "rolling",
+    ["轧场"] = "rolling field",
+    ["轧差"] = "netting",
+    ["轧平"] = "hedge",
+    ["轧成"] = "rolled into",
+    ["轧朋友"] = "make friends",
+    ["轧机"] = "rolling mill",
+    ["轧染"] = "pad dyeing",
+    ["轧染机"] = "pad dyeing machine",
+    ["轧棉"] = "cotton ginning",
+    ["轧死"] = "run over",
+    ["轧死了"] = "run over",
+    ["轧碎"] = "grind",
+    ["轧空"] = "short squeeze",
+    ["轧空头"] = "short squeeze",
+    ["轧花"] = "cotton ginning",
+    ["轧花机"] = "cotton gin",
+    ["轧花网"] = "ginning net",
+    ["轧账"] = "reconcile accounts",
+    ["轧轧"] = "creak creak",
+    ["轧轧声"] = "creaking sound",
+    ["轧辊"] = "roller",
+    ["轧道机"] = "railroad machine",
+    ["轧道车"] = "railroad car",
+    ["轧钢"] = "steel rolling",
+    ["轧钢厂"] = "steel mill",
+    ["轧钢机"] = "rolling mill",
+    ["轧马路"] = "stroll",
+}
+
+return M

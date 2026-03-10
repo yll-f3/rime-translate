@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["碾一碾"] = "grind",
+    ["碾了碾"] = "rolled",
+    ["碾儿胡同"] = "nian'er hutong",
+    ["碾压"] = "rolling",
+    ["碾压伤"] = "rolling injury",
+    ["碾场"] = "threshing ground",
+    ["碾坊"] = "gristmill",
+    ["碾坝乡"] = "nianba township",
+    ["碾坪村"] = "nianping village",
+    ["碾子"] = "roller",
+    ["碾子山"] = "roller mountain",
+    ["碾子山区"] = "roller mountain district",
+    ["碾子沟"] = "roller ditch",
+    ["碾子湾"] = "roller bay",
+    ["碾子胡同"] = "roller hutong",
+    ["碾子镇"] = "roller town",
+    ["碾张乡"] = "nianzhang township",
+    ["碾得"] = "grind",
+    ["碾成"] = "grind into",
+    ["碾死"] = "run over",
+    ["碾死了"] = "crushed to death",
+    ["碾盘"] = "millstone",
+    ["碾砣"] = "grinding wheel",
+    ["碾碎"] = "crush",
+    ["碾磙子"] = "roller",
+    ["碾磨"] = "grinding",
+    ["碾米"] = "rice milling",
+    ["碾米厂"] = "rice mill",
+    ["碾米机"] = "rice milling machine",
+    ["碾轧"] = "rolling",
+    ["碾过"] = "run over",
+}
+
+return M

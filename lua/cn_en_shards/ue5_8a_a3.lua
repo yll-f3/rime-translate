@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["劣习"] = "bad habit",
+    ["劣于"] = "inferior to",
+    ["劣作"] = "bad work",
+    ["劣倦罢极"] = "exhaustion",
+    ["劣势"] = "disadvantage",
+    ["劣化"] = "degradation",
+    ["劣品"] = "inferior",
+    ["劣币"] = "bad money",
+    ["劣弓形"] = "inferior segment",
+    ["劣弧"] = "minor arc",
+    ["劣性"] = "malignancy",
+    ["劣扇形"] = "fan",
+    ["劣根"] = "bad roots",
+    ["劣根性"] = "innate defects",
+    ["劣种"] = "inferior breed",
+    ["劣种子"] = "inferior seed",
+    ["劣等"] = "inferior",
+    ["劣等生"] = "inferior student",
+    ["劣绅"] = "gentry",
+    ["劣行"] = "misconduct",
+    ["劣货"] = "inferior goods",
+    ["劣质"] = "inferior quality",
+    ["劣质品"] = "inferior product",
+    ["劣质奶油"] = "inferior cream",
+    ["劣质奶粉"] = "substandard milk powder",
+    ["劣迹"] = "misconduct",
+    ["劣迹昭彰"] = "notorious misconduct",
+    ["劣迹艺人"] = "disgraced celebrity",
+    ["劣酒"] = "inferior wine",
+    ["劣马"] = "nag",
+}
+
+return M

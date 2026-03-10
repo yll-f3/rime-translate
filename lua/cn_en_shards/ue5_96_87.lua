@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["喇叭"] = "horn",
+    ["喇叭口"] = "horn mouth",
+    ["喇叭响"] = "horn sound",
+    ["喇叭声"] = "horn sound",
+    ["喇叭形十字水母"] = "cross jellyfish",
+    ["喇叭按钮开关"] = "horn button switch",
+    ["喇叭沟门"] = "horn ditch gate",
+    ["喇叭沟门村"] = "horn ditch village",
+    ["喇叭筒"] = "megaphone",
+    ["喇叭箱"] = "speaker box",
+    ["喇叭线"] = "speaker wire",
+    ["喇叭胡同"] = "horn hutong",
+    ["喇叭花"] = "morning glory",
+    ["喇叭莲"] = "horn lotus",
+    ["喇叭虫属"] = "stentor",
+    ["喇叭裤"] = "bell-bottoms",
+    ["喇嘛"] = "lama",
+    ["喇嘛僧"] = "lama monk",
+    ["喇嘛垭乡"] = "lamaya township",
+    ["喇嘛寺"] = "lama monastery",
+    ["喇嘛寺院"] = "lama temple",
+    ["喇嘛庙"] = "lama temple",
+    ["喇嘛教"] = "lamaism",
+    ["喇嘛教徒"] = "lamaist",
+    ["喇嘛昭乡"] = "lamazhao township",
+    ["喇嘛湾"] = "lama bay",
+    ["喇嘛湾镇"] = "lama bay town",
+    ["喇嘛甸"] = "lamadian",
+    ["喇嘛糕"] = "lama cake",
+}
+
+return M

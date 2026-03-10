@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["否决"] = "veto",
+    ["否决了"] = "vetoed",
+    ["否决制"] = "veto system",
+    ["否决权"] = "veto power",
+    ["否决票"] = "negative vote",
+    ["否则"] = "otherwise",
+    ["否则就下地狱"] = "or go to hell",
+    ["否卦"] = "hexagram no",
+    ["否命题"] = "negative proposition",
+    ["否定"] = "negation",
+    ["否定一切"] = "negate everything",
+    ["否定之否定"] = "negation of negation",
+    ["否定之否定规律"] = "law of negation",
+    ["否定了"] = "denied",
+    ["否定判断"] = "negative judgment",
+    ["否定区域"] = "negative region",
+    ["否定句"] = "negative sentence",
+    ["否定回答"] = "negative answer",
+    ["否定式"] = "negative form",
+    ["否定态度"] = "negative attitude",
+    ["否定性"] = "negativity",
+    ["否定者"] = "denier",
+    ["否定论者"] = "negativist",
+    ["否定词"] = "negative word",
+    ["否往泰来"] = "fortune reversal",
+    ["否极泰回"] = "fortune smiles",
+    ["否极泰来"] = "after rain comes sunshine",
+    ["否极阳回"] = "fortune turns",
+    ["否泰如天地"] = "fortunes vary",
+    ["否终复泰"] = "turnaround",
+    ["否认"] = "deny",
+    ["否认了"] = "denied",
+}
+
+return M

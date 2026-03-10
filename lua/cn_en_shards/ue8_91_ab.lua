@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["葫芦"] = "gourd",
+    ["葫芦丝"] = "hulusi",
+    ["葫芦伪似盘钩虫"] = "gourd false disc hookworm",
+    ["葫芦伪锚盘虫"] = "gourd false anchor worm",
+    ["葫芦依样"] = "copy mechanically",
+    ["葫芦兄弟"] = "gourd brothers",
+    ["葫芦垡"] = "hulufa",
+    ["葫芦夜蛾"] = "gourd moth",
+    ["葫芦大吉翅子"] = "gourd auspicious shark fin",
+    ["葫芦头"] = "gourd head",
+    ["葫芦套乡"] = "hulutao township",
+    ["葫芦娃"] = "gourd baby",
+    ["葫芦岛"] = "huludao",
+    ["葫芦岛市"] = "huludao city",
+    ["葫芦岛市中心医院"] = "huludao central hospital",
+    ["葫芦峪"] = "gourd valley",
+    ["葫芦拟步行虫"] = "gourd mimic beetle",
+    ["葫芦案"] = "gourd case",
+    ["葫芦湾"] = "gourd bay",
+    ["葫芦片子"] = "gourd slices",
+    ["葫芦牌"] = "gourd brand",
+    ["葫芦科"] = "cucurbitaceae",
+    ["葫芦笙"] = "gourd sheng",
+    ["葫芦素"] = "cucurbitacin",
+    ["葫芦素片"] = "cucurbitacin tablets",
+    ["葫芦茶"] = "gourd tea",
+    ["葫芦藤"] = "gourd vine",
+    ["葫芦锹形虫"] = "gourd stag beetle",
+    ["葫芦阵"] = "gourd formation",
+    ["葫芦鸡"] = "gourd chicken",
+}
+
+return M

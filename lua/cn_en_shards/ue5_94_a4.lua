@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["唤不起"] = "cannot arouse",
+    ["唤了"] = "called",
+    ["唤人"] = "call someone",
+    ["唤作"] = "call as",
+    ["唤作拒霜知未称"] = "call it frost-resistant unknown",
+    ["唤兽师戒指"] = "beast caller ring",
+    ["唤兽师长袍"] = "beast caller robe",
+    ["唤兽师项链"] = "beast caller necklace",
+    ["唤出"] = "summon",
+    ["唤取归来同住"] = "call back to live together",
+    ["唤回"] = "recall",
+    ["唤回苦海梦中人"] = "awakening the dreamer in the sea of bitterness",
+    ["唤头"] = "call head",
+    ["唤星者"] = "star caller",
+    ["唤来"] = "summon",
+    ["唤着"] = "call out",
+    ["唤起"] = "air exchange",
+    ["唤起一天明月"] = "suspended sentence",
+    ["唤起两眸清炯炯"] = "valve guide replacement",
+    ["唤起工农千百万"] = "start changing",
+    ["唤起民众"] = "ventilator",
+    ["唤起注意"] = "harmonious joy",
+    ["唤醒"] = "awaken",
+    ["唤醒了"] = "awakened",
+    ["唤醒功能"] = "wake-up function",
+    ["唤醒源"] = "wake-up source",
+    ["唤醒的"] = "awakened",
+    ["唤醒等待"] = "wake-up waiting",
+    ["唤醒精神"] = "awaken spirit",
+    ["唤醒者"] = "awakener",
+    ["唤魔师"] = "ring eye",
+}
+
+return M

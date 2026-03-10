@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["畜产"] = "animal husbandry",
+    ["畜产品"] = "livestock products",
+    ["畜养"] = "rear",
+    ["畜力"] = "animal power",
+    ["畜圈"] = "livestock pen",
+    ["畜妻养子"] = "support family",
+    ["畜栏"] = "livestock pen",
+    ["畜牧"] = "animal husbandry",
+    ["畜牧业"] = "animal husbandry",
+    ["畜牧公司"] = "livestock company",
+    ["畜牧养殖"] = "livestock farming",
+    ["畜牧兽医"] = "animal husbandry vet",
+    ["畜牧厂"] = "livestock factory",
+    ["畜牧厅"] = "livestock department",
+    ["畜牧场"] = "livestock farm",
+    ["畜牧学"] = "animal science",
+    ["畜牧局"] = "livestock bureau",
+    ["畜牧果林场"] = "livestock orchard",
+    ["畜牧经济"] = "animal economy",
+    ["畜牧者"] = "herder",
+    ["畜牧良种场"] = "livestock breeding farm",
+    ["畜生"] = "beast",
+    ["畜疫"] = "animal epidemic",
+    ["畜研所"] = "animal research institute",
+    ["畜禽"] = "livestock and poultry",
+    ["畜禽养殖"] = "livestock and poultry farming",
+    ["畜类"] = "livestock",
+    ["畜群"] = "herd",
+    ["畜肥"] = "animal manure",
+    ["畜舍"] = "livestock shed",
+}
+
+return M

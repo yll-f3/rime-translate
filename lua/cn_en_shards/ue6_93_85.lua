@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["擅于"] = "adept at",
+    ["擅作主张"] = "self-assertion",
+    ["擅入"] = "trespass",
+    ["擅场"] = "dominate",
+    ["擅场之作"] = "masterpiece",
+    ["擅壑专丘"] = "claiming land",
+    ["擅改"] = "unauthorized change",
+    ["擅断"] = "arbitrary decision",
+    ["擅权"] = "usurp power",
+    ["擅用"] = "unauthorized use",
+    ["擅离"] = "unauthorized leave",
+    ["擅离职守"] = "absent without leave",
+    ["擅自"] = "without permission",
+    ["擅自为谋"] = "self-made plan",
+    ["擅自决定"] = "arbitrary decision",
+    ["擅自参加"] = "unauthorized participation",
+    ["擅自处理"] = "unauthorized handling",
+    ["擅自复制"] = "unauthorized copying",
+    ["擅自将"] = "unauthorized transfer",
+    ["擅自改变"] = "unauthorized alteration",
+    ["擅自改变武器装备编配用途罪"] = "illegal weapon repurposing",
+    ["擅自改后"] = "post alteration",
+    ["擅自行动"] = "unauthorized action",
+    ["擅自采矿"] = "unauthorized mining",
+    ["擅长"] = "excel",
+    ["擅长书法"] = "skilled in calligraphy",
+    ["擅长于"] = "excel at",
+    ["擅长制作"] = "skilled in making",
+    ["擅长演"] = "skilled in acting",
+    ["擅闯"] = "trespass",
+}
+
+return M

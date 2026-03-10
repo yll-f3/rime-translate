@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["侍中"] = "palace attendant",
+    ["侍从"] = "retinue",
+    ["侍从室"] = "aide-de-camp office",
+    ["侍候"] = "serve",
+    ["侍儿"] = "servant",
+    ["侍儿扶起娇无力"] = "maid helps up the delicate",
+    ["侍养"] = "care for",
+    ["侍卫"] = "bodyguard",
+    ["侍卫长"] = "chief guard",
+    ["侍奉"] = "serve",
+    ["侍女"] = "maid",
+    ["侍妾"] = "concubine",
+    ["侍姬"] = "concubine",
+    ["侍婢"] = "maidservant",
+    ["侍寝"] = "attend bedchamber",
+    ["侍应"] = "waiter",
+    ["侍应生"] = "waiter",
+    ["侍弄"] = "tend carefully",
+    ["侍御"] = "imperial censor",
+    ["侍御史"] = "imperial censor",
+    ["侍执巾栉"] = "personal service",
+    ["侍执巾节"] = "serve closely",
+    ["侍火使者"] = "fire attendant",
+    ["侍神令"] = "the yin-yang master",
+    ["侍立"] = "stand by",
+    ["侍立小童清"] = "attendant boy",
+    ["侍童"] = "page",
+    ["侍者"] = "attendant",
+    ["侍臣"] = "courtier",
+    ["侍讲学士"] = "lecturer bachelor",
+    ["侍读学士"] = "reader scholar",
+    ["侍郎"] = "vice minister",
+}
+
+return M

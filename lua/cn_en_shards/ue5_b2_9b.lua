@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["岛上"] = "on the island",
+    ["岛上的"] = "on the island",
+    ["岛中"] = "in island",
+    ["岛中央"] = "island center",
+    ["岛主"] = "island owner",
+    ["岛之护身符"] = "island talisman",
+    ["岛内"] = "within the island",
+    ["岛国"] = "island nation",
+    ["岛国家"] = "island country",
+    ["岛城"] = "island city",
+    ["岛外"] = "outside island",
+    ["岛屿"] = "island",
+    ["岛屿上"] = "on the island",
+    ["岛屿亚澳肖叶甲"] = "island australian leaf beetle",
+    ["岛屿佳境色"] = "island beautiful scenery",
+    ["岛屿心情"] = "island mood",
+    ["岛崎信长"] = "nobunaga shimazaki",
+    ["岛崎遥香"] = "haruka shimazaki",
+    ["岛弧"] = "island arc",
+    ["岛形半版"] = "island half-page",
+    ["岛民"] = "islander",
+    ["岛津义弘"] = "shimazu yoshihiro",
+    ["岛田"] = "shimada",
+    ["岛田庄司"] = "soji shimada",
+    ["岛田阳子"] = "yoko shimada",
+    ["岛的"] = "island's",
+    ["岛的周围"] = "surrounding the island",
+    ["岛的四周"] = "around the island",
+    ["岛礁"] = "island reef",
+    ["岛谷瞳"] = "shizuka kudō",
+    ["岛里"] = "island interior",
+    ["岛霉素"] = "islandmycin",
+}
+
+return M

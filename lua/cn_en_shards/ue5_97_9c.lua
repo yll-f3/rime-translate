@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["嗜中性粒细胞"] = "neutrophil",
+    ["嗜人按蚊"] = "anopheles anthropophagus",
+    ["嗜低温弓形海螺"] = "psychrophilic toxoglossate",
+    ["嗜好"] = "hobby",
+    ["嗜好品买卖"] = "hobby goods trade",
+    ["嗜子宫线虫病"] = "thelaziasis",
+    ["嗜杀"] = "bloodthirsty",
+    ["嗜杀成性"] = "bloodthirsty",
+    ["嗜杀者"] = "killer",
+    ["嗜烟"] = "smoke heavily",
+    ["嗜盐菌"] = "halophile",
+    ["嗜眠"] = "narcolepsy",
+    ["嗜眠症"] = "narcolepsy",
+    ["嗜睡"] = "drowsiness",
+    ["嗜碱性"] = "basophilia",
+    ["嗜碱性粒细胞"] = "basophil",
+    ["嗜肺军团菌"] = "legionella pneumophila",
+    ["嗜茶"] = "tea lover",
+    ["嗜血"] = "bloodthirsty",
+    ["嗜酒"] = "alcoholism",
+    ["嗜酒如命"] = "alcohol addiction",
+    ["嗜酒成性"] = "alcoholic",
+    ["嗜酸乳杆菌"] = "lactobacillus acidophilus",
+    ["嗜酸性"] = "acidophilic",
+    ["嗜酸性粒细胞"] = "eosinophil",
+    ["嗜酸性细胞"] = "eosinophilic cell",
+    ["嗜酸性肉芽肿"] = "eosinophilic granuloma",
+    ["嗜酸细胞"] = "acidophil",
+    ["嗜铬细胞瘤"] = "pheochromocytoma",
+    ["嗜饮"] = "alcoholism",
+    ["嗜鰕截颌鲤"] = "labeo虾",
+    ["嗜鱼蛇"] = "fish-loving snake",
+}
+
+return M

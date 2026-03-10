@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["蝴蝶"] = "butterfly",
+    ["蝴蝶之梦为周与"] = "butterfly dream is for zhou yu",
+    ["蝴蝶兰"] = "phalaenopsis",
+    ["蝴蝶剑"] = "butterfly sword",
+    ["蝴蝶夫人"] = "madama butterfly",
+    ["蝴蝶效应"] = "butterfly effect",
+    ["蝴蝶斑"] = "butterfly spot",
+    ["蝴蝶梦"] = "butterfly dream",
+    ["蝴蝶泉"] = "butterfly spring",
+    ["蝴蝶泉边"] = "by butterfly spring",
+    ["蝴蝶海参"] = "butterfly sea cucumber",
+    ["蝴蝶烩鳝"] = "butterfly braised eel",
+    ["蝴蝶犬"] = "papillon",
+    ["蝴蝶瓜"] = "butterfly melon",
+    ["蝴蝶瓦"] = "butterfly tile",
+    ["蝴蝶秀"] = "butterfly show",
+    ["蝴蝶结"] = "bow",
+    ["蝴蝶结标志"] = "bow logo",
+    ["蝴蝶自来"] = "butterflies come naturally",
+    ["蝴蝶花"] = "butterfly flower",
+    ["蝴蝶虾"] = "butterfly shrimp",
+    ["蝴蝶虾卷"] = "butterfly shrimp roll",
+    ["蝴蝶表厂"] = "butterfly watch factory",
+    ["蝴蝶谷"] = "butterfly valley",
+    ["蝴蝶酥"] = "butterfly pastry",
+    ["蝴蝶门"] = "butterfly door",
+    ["蝴蝶面"] = "butterfly noodle",
+    ["蝴蝶飞呀"] = "butterfly fly",
+    ["蝴蝶飞飞"] = "butterfly flying",
+    ["蝴蝶馆"] = "butterfly hall",
+    ["蝴蝶香囊"] = "butterfly sachet",
+    ["蝴蝶骨"] = "butterfly bone",
+}
+
+return M

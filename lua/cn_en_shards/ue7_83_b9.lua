@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["烹丁香"] = "cook cloves",
+    ["烹刑"] = "pengxing",
+    ["烹制"] = "cook",
+    ["烹坝"] = "cooking dam",
+    ["烹坝乡"] = "cooking dam township",
+    ["烹大肉"] = "cook meat",
+    ["烹小鲜"] = "pengxiaoxian",
+    ["烹杀"] = "cooking kill",
+    ["烹煮"] = "cook",
+    ["烹白肉"] = "cooking white meat",
+    ["烹羊宰牛且为乐"] = "cook sheep and cattle for joy",
+    ["烹芽韭"] = "pengyajiu",
+    ["烹茶"] = "brew tea",
+    ["烹调"] = "cooking",
+    ["烹调学"] = "gastronomy",
+    ["烹调师"] = "chef",
+    ["烹调方法"] = "cooking technique",
+    ["烹调油"] = "cooking oil",
+    ["烹调法"] = "cooking method",
+    ["烹调用"] = "cooking use",
+    ["烹调知识"] = "culinary knowledge",
+    ["烹醋"] = "cook vinegar",
+    ["烹饪"] = "cooking",
+    ["烹饪学"] = "gastronomy",
+    ["烹饪学校"] = "culinary school",
+    ["烹饪方法"] = "cooking method",
+    ["烹饪班"] = "cooking class",
+    ["烹饪用户"] = "cooking user",
+    ["烹鸡酌白酒"] = "cook chicken with white wine",
+    ["烹龙炮凤"] = "luxury cuisine",
+    ["烹龙炮凤玉脂泣"] = "jade fat weeps",
+}
+
+return M

@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["溃不成军"] = "routed",
+    ["溃乱"] = "chaos",
+    ["溃于蚁穴"] = "collapse due to an ant hole",
+    ["溃兵"] = "defeated soldiers",
+    ["溃兵游勇"] = "stragglers",
+    ["溃兵骷髅"] = "skeleton of defeated soldiers",
+    ["溃冒冲突"] = "eruption",
+    ["溃军"] = "defeated army",
+    ["溃决"] = "breach",
+    ["溃口"] = "breach",
+    ["溃围"] = "break siege",
+    ["溃坝"] = "dam breach",
+    ["溃堤"] = "breach",
+    ["溃散"] = "rout",
+    ["溃民"] = "refugees",
+    ["溃灭"] = "collapse",
+    ["溃烂"] = "fester",
+    ["溃疡"] = "ulcer",
+    ["溃疡性"] = "ulcerative",
+    ["溃疡性睑缘炎"] = "ulcerative blepharitis",
+    ["溃疡性结肠炎"] = "ulcerative colitis",
+    ["溃疡性肠炎"] = "ulcerative enteritis",
+    ["溃疡病"] = "ulcer disease",
+    ["溃疡病穿孔"] = "ulcer perforation",
+    ["溃疡面"] = "ulcer surface",
+    ["溃癃疝"] = "hernia",
+    ["溃脓"] = "suppuration",
+    ["溃败"] = "defeat",
+    ["溃退"] = "rout",
+    ["溃逃"] = "flee",
+}
+
+return M

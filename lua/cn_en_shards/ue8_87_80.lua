@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["臀上"] = "upper buttock",
+    ["臀上皮神经"] = "superior cluneal nerves",
+    ["臀位"] = "breech position",
+    ["臀厚"] = "buttock thickness",
+    ["臀后"] = "posterior buttock",
+    ["臀围"] = "hip circumference",
+    ["臀大肌"] = "gluteus maximus",
+    ["臀小肌"] = "gluteus minimus",
+    ["臀尖"] = "buttock tip",
+    ["臀斑月花鮨"] = "basslet",
+    ["臀斑毛鼻鲶"] = "catfish",
+    ["臀斑躄鱼"] = "freckled frogfish",
+    ["臀斑隐势瓢虫"] = "ladybug",
+    ["臀斑颌鳞鰕虎鱼"] = "goby",
+    ["臀斜杜父鱼"] = "oblique sculpin",
+    ["臀棘"] = "ischial spine",
+    ["臀沟"] = "gluteal cleft",
+    ["臀瓣"] = "gluteal flap",
+    ["臀疣"] = "ischial callosity",
+    ["臀线"] = "gluteal line",
+    ["臀肉"] = "rump",
+    ["臀肌"] = "gluteal muscles",
+    ["臀肌挛缩"] = "gluteal muscle contracture",
+    ["臀腿"] = "buttocks and thighs",
+    ["臀裂"] = "gluteal cleft",
+    ["臀角"] = "buttock angle",
+    ["臀足"] = "proleg",
+    ["臀部"] = "buttocks",
+    ["臀钩土蜂科"] = "tiphiidae",
+    ["臀鳍"] = "anal fin",
+}
+
+return M

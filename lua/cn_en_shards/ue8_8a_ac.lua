@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["芬兰"] = "finland",
+    ["芬兰丝毛犬"] = "finnish spitz",
+    ["芬兰人"] = "finnish",
+    ["芬兰共和国"] = "republic of finland",
+    ["芬兰拉普赫德犬"] = "finnish lapphund",
+    ["芬兰语"] = "finnish",
+    ["芬兰队"] = "finland team",
+    ["芬兰颂"] = "finlandia",
+    ["芬兰驯鹿"] = "finnish reindeer",
+    ["芬地湾"] = "fundy bay",
+    ["芬太尼"] = "fentanyl",
+    ["芬太尼透皮贴剂"] = "fentanyl transdermal patch",
+    ["芬奇"] = "finch",
+    ["芬尼"] = "pfennig",
+    ["芬尼史密斯"] = "fennie smith",
+    ["芬布芬"] = "fenbufen",
+    ["芬布芬胶囊"] = "fenbufen capsules",
+    ["芬必得"] = "fenbid",
+    ["芬朵菈丝"] = "fendoras",
+    ["芬氏羚野螟"] = "finsch's grass moth",
+    ["芬氏鵖"] = "finsch's wheatear",
+    ["芬氟拉明"] = "fenfluramine",
+    ["芬河皱鳃鰕虎鱼"] = "fenhe wrinkled gill goby",
+    ["芬芳"] = "fragrant",
+    ["芬芳沁人"] = "fragrance refreshing",
+    ["芬芳馥郁"] = "rich fragrance",
+    ["芬达"] = "fanta",
+    ["芬里斯岛"] = "fenris island",
+    ["芬香"] = "fragrance",
+}
+
+return M

@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["肇东"] = "zhaodong",
+    ["肇东县"] = "zhaodong county",
+    ["肇东市"] = "zhaodong city",
+    ["肇事"] = "cause trouble",
+    ["肇事人"] = "culprit",
+    ["肇事司机"] = "hit-and-run driver",
+    ["肇事案"] = "hit-and-run case",
+    ["肇事罪"] = "hit-and-run crime",
+    ["肇事者"] = "perpetrator",
+    ["肇事车"] = "hit-and-run car",
+    ["肇事逃逸"] = "hit and run",
+    ["肇俊哲"] = "zhao junzhe",
+    ["肇兴"] = "zhaoxing",
+    ["肇勤"] = "zhao qin",
+    ["肇嘉浜"] = "zhao jia bang",
+    ["肇嘉浜路"] = "zhao jia bang road",
+    ["肇因"] = "cause",
+    ["肇始"] = "originate",
+    ["肇州"] = "zhao zhou",
+    ["肇州县"] = "zhaozhou county",
+    ["肇州市"] = "zhaozhou city",
+    ["肇工街"] = "zhaogong street",
+    ["肇庆"] = "zhaoqing",
+    ["肇庆中院"] = "zhaoqing intermediate court",
+    ["肇庆市"] = "zhaoqing city",
+    ["肇庆裹蒸"] = "zhaoqing guozheng",
+    ["肇毅"] = "zhao yi",
+    ["肇源农场"] = "zhaoyuan farm",
+    ["肇源县"] = "zhaoyuan county",
+    ["肇祸"] = "cause disaster",
+    ["肇端"] = "origin",
+    ["肇锡余以嘉名"] = "bestow me a fine name",
+}
+
+return M

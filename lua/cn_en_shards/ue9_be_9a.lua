@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["龚仁心"] = "gong renxin",
+    ["龚兰生"] = "gong lansheng",
+    ["龚叶轩"] = "gong yexuan",
+    ["龚垭乡"] = "gongya township",
+    ["龚学平"] = "gong xueping",
+    ["龚宝铨"] = "gong baoquan",
+    ["龚居中"] = "gong juzhong",
+    ["龚廷贤"] = "gong tingxian",
+    ["龚文祥"] = "gong wenxiang",
+    ["龚旗煌"] = "gong qihuang",
+    ["龚明之"] = "gong mingzhi",
+    ["龚易图"] = "gong yitu",
+    ["龚晓斌"] = "gong xiaobin",
+    ["龚晓跃"] = "gong xiaoyue",
+    ["龚村东口"] = "east entrance of gong village",
+    ["龚村桥"] = "gong village bridge",
+    ["龚湾路"] = "gongwan road",
+    ["龚滩"] = "gongtan",
+    ["龚睿那"] = "gong ruina",
+    ["龚秋声"] = "gong qiusheng",
+    ["龚稼农"] = "gong jianong",
+    ["龚翔麟"] = "gong xianglin",
+    ["龚自珍"] = "gong zizhen",
+    ["龚蓓苾"] = "gong beibi",
+    ["龚路镇"] = "gonglu town",
+    ["龚道安"] = "gong dao'an",
+    ["龚雪松"] = "gong xuesong",
+    ["龚鹏程"] = "gong pengcheng",
+    ["龚鼎孳"] = "gong dingzi",
+}
+
+return M

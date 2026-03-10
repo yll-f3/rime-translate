@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["粒儿"] = "granule",
+    ["粒大"] = "large grain",
+    ["粒子"] = "particle",
+    ["粒子们"] = "particles",
+    ["粒子大小"] = "particle size",
+    ["粒子射线"] = "particle beam",
+    ["粒子效果"] = "particle effect",
+    ["粒子束"] = "particle beam",
+    ["粒子束武器"] = "particle beam weapon",
+    ["粒子流"] = "particle flow",
+    ["粒子滤波"] = "particle filter",
+    ["粒子特效"] = "particle effects",
+    ["粒子系统"] = "particle system",
+    ["粒子编辑器"] = "particle editor",
+    ["粒子群"] = "particle swarm",
+    ["粒子群算法"] = "pso",
+    ["粒度"] = "granularity",
+    ["粒径"] = "particle size",
+    ["粒状"] = "granular",
+    ["粒米狼戾"] = "grain abundance",
+    ["粒粒"] = "grains",
+    ["粒粒分明"] = "each grain distinct",
+    ["粒粒皆辛苦"] = "every grain comes from hard work",
+    ["粒粒脆"] = "crispy grains",
+    ["粒级"] = "grain size",
+    ["粒纹大齿猛蚁"] = "odontomachus graniventris",
+    ["粒细胞"] = "granulocyte",
+    ["粒细胞缺乏症"] = "agranulocytosis",
+    ["粒细胞肉瘤"] = "granulocytic sarcoma",
+    ["粒细胞集落刺激因子"] = "g-csf",
+    ["粒肥"] = "granular fertilizer",
+    ["粒选"] = "grain selection",
+}
+
+return M

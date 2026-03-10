@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["狄亚得十字弓"] = "dyad crossbow",
+    ["狄亚得双刀"] = "dyad dual blades",
+    ["狄亚得采矿"] = "dyad mining",
+    ["狄仁杰"] = "di renjie",
+    ["狄克"] = "dick",
+    ["狄克试验"] = "dick test",
+    ["狄公案"] = "di gong case",
+    ["狄利克来函数"] = "dirichlet function",
+    ["狄姓"] = "di surname",
+    ["狄安娜"] = "diana",
+    ["狄安娜猴"] = "diana monkey",
+    ["狄安娜长尾猴"] = "diana monkey",
+    ["狄寨"] = "di zhai",
+    ["狄尔斯-阿尔德反应"] = "diels-alder reaction",
+    ["狄尔泰"] = "dilthey",
+    ["狄德罗"] = "diderot",
+    ["狄慈根"] = "dietzgen",
+    ["狄斯奈"] = "disney",
+    ["狄斯耐"] = "disney",
+    ["狄更斯"] = "dickens",
+    ["狄更逊水母"] = "dickinsonia",
+    ["狄村"] = "dicun",
+    ["狄梵思黛"] = "tiffany",
+    ["狄氏夕划蝽"] = "dixia's evening planthopper",
+    ["狄波拉"] = "deborah",
+    ["狄翁"] = "dion",
+    ["狄达缘蝽"] = "dida bug",
+    ["狄邱乡"] = "diqiu township",
+    ["狄青"] = "di qing",
+    ["狄飞惊"] = "di feijing",
+    ["狄龙"] = "dillon",
+}
+
+return M

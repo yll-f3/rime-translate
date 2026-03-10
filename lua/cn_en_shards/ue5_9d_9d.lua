@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["坝上"] = "bashang",
+    ["坝下村"] = "baxia village",
+    ["坝体"] = "dam body",
+    ["坝区"] = "dam area",
+    ["坝地"] = "dam land",
+    ["坝址"] = "dam site",
+    ["坝坝"] = "dam",
+    ["坝坝席"] = "dam feast",
+    ["坝坝茶"] = "dam tea",
+    ["坝坝鱼"] = "dam fish",
+    ["坝基"] = "dam foundation",
+    ["坝埽"] = "dam fascine",
+    ["坝头村"] = "batou village",
+    ["坝子"] = "flatland",
+    ["坝子村"] = "bazi village",
+    ["坝子街"] = "bazi street",
+    ["坝子里"] = "in the flatland",
+    ["坝底村"] = "badi village",
+    ["坝心"] = "dam core",
+    ["坝接桥"] = "dam connecting bridge",
+    ["坝梁"] = "dam beam",
+    ["坝田村"] = "batian village",
+    ["坝营镇"] = "baying town",
+    ["坝街乡"] = "bajie township",
+    ["坝身"] = "dam body",
+    ["坝陵桥"] = "baling bridge",
+    ["坝陵桥街道"] = "balingqiao street",
+    ["坝陵街道"] = "baling street",
+    ["坝顶高程"] = "dam crest elevation",
+    ["坝首"] = "dam head",
+    ["坝高"] = "dam height",
+}
+
+return M

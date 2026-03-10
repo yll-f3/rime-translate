@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["跪下"] = "kneel down",
+    ["跪下去"] = "kneel down",
+    ["跪下来"] = "kneel down",
+    ["跪了"] = "kneel down",
+    ["跪伏"] = "kneel prostrate",
+    ["跪倒"] = "kneel down",
+    ["跪到"] = "kneel to",
+    ["跪叩"] = "kowtow",
+    ["跪在"] = "kneel on",
+    ["跪在地上"] = "kneel on ground",
+    ["跪地"] = "kneel on ground",
+    ["跪地求饶"] = "kneel and beg for mercy",
+    ["跪坐"] = "seiza",
+    ["跪垫"] = "kneeling pad",
+    ["跪好"] = "kneel properly",
+    ["跪姿"] = "kneeling position",
+    ["跪安"] = "kneel and retire",
+    ["跪射"] = "kneeling archery",
+    ["跪射俑"] = "kneeling archer figurine",
+    ["跪拜"] = "kowtow",
+    ["跪拜礼"] = "kowtow ritual",
+    ["跪敷衽以陈辞兮"] = "kneel and spread lapel to speak",
+    ["跪求"] = "begging on knees",
+    ["跪着"] = "kneeling",
+    ["跪着呢"] = "kneeling",
+    ["跪祷"] = "kneel and pray",
+    ["跪立"] = "kneel upright",
+    ["跪舔"] = "grovel",
+    ["跪谢"] = "kneel in thanks",
+    ["跪趴"] = "kneeling on all fours",
+    ["跪趴在"] = "kneeling on",
+    ["跪领"] = "receive on knees",
+}
+
+return M

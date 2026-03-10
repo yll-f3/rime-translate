@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["瞪一瞪"] = "stare a bit",
+    ["瞪了"] = "stared",
+    ["瞪了瞪"] = "stared a bit",
+    ["瞪人"] = "staring at someone",
+    ["瞪他"] = "staring at him",
+    ["瞪你"] = "stare at you",
+    ["瞪啥"] = "staring at what",
+    ["瞪圆"] = "eyes wide open",
+    ["瞪大"] = "stare wide",
+    ["瞪大眼睛"] = "wide-eyed",
+    ["瞪她"] = "staring at her",
+    ["瞪得"] = "stare",
+    ["瞪得像"] = "stare like",
+    ["瞪得比"] = "stare wider than",
+    ["瞪得溜圆"] = "eyes wide open",
+    ["瞪我"] = "staring at me",
+    ["瞪的"] = "stare",
+    ["瞪目哆口"] = "wide-eyed and open-mouthed",
+    ["瞪眼"] = "stare",
+    ["瞪眼咋舌"] = "stare in astonishment",
+    ["瞪眼歪脖"] = "stare with neck twisted",
+    ["瞪眼看"] = "stare at",
+    ["瞪着"] = "staring",
+    ["瞪着眼"] = "staring",
+    ["瞪着眼睛"] = "staring with eyes wide",
+    ["瞪瞪眼"] = "stare",
+    ["瞪羚"] = "gazelle",
+    ["瞪视"] = "staring",
+    ["瞪视着"] = "staring at",
+    ["瞪起"] = "stare up",
+}
+
+return M

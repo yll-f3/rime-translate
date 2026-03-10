@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["庸中佼佼"] = "outstanding among mediocre",
+    ["庸中皦皦"] = "distinguished among mediocre",
+    ["庸人"] = "mediocre",
+    ["庸人自扰"] = "worry",
+    ["庸人自扰之"] = "self-inflicted worry",
+    ["庸俗"] = "vulgar",
+    ["庸俗不堪"] = "tasteless",
+    ["庸俗化"] = "vulgarization",
+    ["庸俗唯物主义"] = "vulgar materialism",
+    ["庸俗的人"] = "philistine",
+    ["庸俗社会学"] = "vulgar sociology",
+    ["庸俗经济学"] = "vulgar economics",
+    ["庸俗进化论"] = "vulgar evolutionism",
+    ["庸俗透顶"] = "utterly vulgar",
+    ["庸劣"] = "inferior",
+    ["庸医"] = "quack",
+    ["庸夫"] = "mediocre person",
+    ["庸官"] = "mediocre official",
+    ["庸庸碌碌"] = "mediocre",
+    ["庸懦"] = "mediocre coward",
+    ["庸懦无能"] = "incompetent coward",
+    ["庸才"] = "mediocrity",
+    ["庸村"] = "yong village",
+    ["庸民"] = "common people",
+    ["庸碌"] = "mediocre",
+    ["庸者"] = "mediocre",
+    ["庸耳俗目"] = "ignorant",
+    ["庸肆"] = "mediocre",
+    ["庸言"] = "mediocre words",
+    ["庸钝口螈"] = "common mudpuppy",
+    ["庸陋"] = "vulgar",
+    ["庸鲽"] = "flounder",
+}
+
+return M

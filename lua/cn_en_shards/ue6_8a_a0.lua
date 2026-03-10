@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["抠一下"] = "pick a little",
+    ["抠不出"] = "can't dig out",
+    ["抠出"] = "pick out",
+    ["抠出来"] = "pick out",
+    ["抠到家"] = "stingy",
+    ["抠到家了"] = "extremely stingy",
+    ["抠哧"] = "pick at",
+    ["抠唆"] = "niggardly",
+    ["抠图"] = "cutout",
+    ["抠字眼"] = "split hairs",
+    ["抠完"] = "picked out",
+    ["抠完鼻屎"] = "picked nose",
+    ["抠屄"] = "pick cunt",
+    ["抠弄"] = "fiddle",
+    ["抠心挖肚"] = "heart-searching",
+    ["抠心挖胆"] = "soul-searching",
+    ["抠掉"] = "pick off",
+    ["抠搜"] = "stingy",
+    ["抠眼"] = "gouge eyes",
+    ["抠眼珠"] = "gouge eyeballs",
+    ["抠眼珠子"] = "gouge eyeballs",
+    ["抠眼睛"] = "gouge eyes",
+    ["抠破"] = "scratch",
+    ["抠脚"] = "foot picking",
+    ["抠脚丫"] = "toe picking",
+    ["抠衣趋隅"] = "humble oneself",
+    ["抠逼"] = "pick pussy",
+    ["抠门"] = "stingy",
+    ["抠门儿"] = "cheapskate",
+    ["抠鼻"] = "pick nose",
+    ["抠鼻屎"] = "pick booger",
+}
+
+return M

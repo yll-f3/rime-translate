@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["耿介"] = "upright",
+    ["耿先生"] = "mr. geng",
+    ["耿勇军"] = "geng yongjun",
+    ["耿吾既得此中正"] = "gengwu i have gained this righteousness",
+    ["耿姐"] = "sister geng",
+    ["耿姓"] = "surname geng",
+    ["耿庄"] = "gengzhuang",
+    ["耿庄村村委会"] = "gengzhuang village committee",
+    ["耿庄桥"] = "gengzhuang bridge",
+    ["耿志炜"] = "geng zhiwei",
+    ["耿慧茹"] = "geng huiru",
+    ["耿昭忠"] = "geng zhaozhong",
+    ["耿浩伦"] = "geng haolun",
+    ["耿湾乡"] = "gengwan township",
+    ["耿爽"] = "geng shuang",
+    ["耿直"] = "honest",
+    ["耿福兴"] = "geng fu xing",
+    ["耿耿"] = "loyal",
+    ["耿耿于怀"] = "bear a grudge",
+    ["耿耿在抱"] = "loyal抱",
+    ["耿耿在臆"] = "loyal臆",
+    ["耿耿寸心"] = "loyal inch heart",
+    ["耿耿对金陵"] = "loyal facing jinling",
+    ["耿耿忠心"] = "loyal heart",
+    ["耿耿星河欲曙天"] = "loyal星河dawn approaching",
+    ["耿耿有怀"] = "loyal怀",
+    ["耿耿此心"] = "this loyal heart",
+    ["耿鉴庭"] = "geng jianting",
+    ["耿飚"] = "geng biao",
+    ["耿马"] = "gengma",
+    ["耿马县"] = "gengma county",
+    ["耿鬼"] = "gengar",
+}
+
+return M

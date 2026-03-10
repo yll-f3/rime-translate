@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["豹之优雅"] = "leopard's grace",
+    ["豹之迅捷"] = "leopard's swiftness",
+    ["豹头环眼"] = "fierce appearance",
+    ["豹女"] = "leopard woman",
+    ["豹子"] = "leopard",
+    ["豹子头"] = "leopard head",
+    ["豹子岭"] = "leopard ridge",
+    ["豹子胆"] = "leopard's courage",
+    ["豹尾"] = "leopard tail",
+    ["豹式坦克"] = "panther tank",
+    ["豹房"] = "leopard house",
+    ["豹文刺"] = "leopard spot needling",
+    ["豹斑硬皮猫鲨"] = "chain catshark",
+    ["豹猫"] = "leopard cat",
+    ["豹猫守宫"] = "leopard gecko",
+    ["豹王"] = "leopard king",
+    ["豹皮"] = "leopard skin",
+    ["豹纹"] = "leopard print",
+    ["豹纹九棘鮨"] = "leopard hind",
+    ["豹纹刺鮨"] = "leopard coral grouper",
+    ["豹纹卷野螟蛾"] = "leopard-spotted pyralid moth",
+    ["豹纹状眼底"] = "leopard fundus",
+    ["豹纹花翅黑距蚜小蜂"] = "leopard-spotted aphid parasitoid",
+    ["豹群守护"] = "leopard pack guardian",
+    ["豹胎熊蹯"] = "leopard fetus bear paw",
+    ["豹蛙肽"] = "bradykinin",
+    ["豹豪酒吧"] = "leopard bar",
+    ["豹骨酒"] = "leopard bone wine",
+    ["豹鲂𫚒"] = "dactylopterus",
+    ["豹鲂𫚒亚目"] = "dactylopteroidei",
+    ["豹鲂𫚒目"] = "dactylopteriformes",
+    ["豹鲂𫚒鱼"] = "flying gurnard",
+}
+
+return M

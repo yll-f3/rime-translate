@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["婉仪"] = "grace",
+    ["婉儿"] = "wan'er",
+    ["婉劝"] = "persuade gently",
+    ["婉君"] = "wanjun",
+    ["婉和"] = "gentle and harmonious",
+    ["婉商"] = "gentle discuss",
+    ["婉妙"] = "exquisite",
+    ["婉娈"] = "graceful",
+    ["婉娩"] = "graceful",
+    ["婉婉"] = "graceful",
+    ["婉婉有仪"] = "elegant manners",
+    ["婉嫕"] = "gentle",
+    ["婉容"] = "graceful",
+    ["婉拒"] = "politely decline",
+    ["婉拒了"] = "politely declined",
+    ["婉曲"] = "tactful",
+    ["婉曼"] = "graceful",
+    ["婉琳"] = "wanlin",
+    ["婉约"] = "graceful",
+    ["婉约派"] = "graceful school",
+    ["婉而成章"] = "gracefully written",
+    ["婉言"] = "polite words",
+    ["婉言拒绝"] = "politely decline",
+    ["婉言相劝"] = "gently persuade",
+    ["婉言谢绝"] = "politely refuse",
+    ["婉谢"] = "politely decline",
+    ["婉转"] = "tactful",
+    ["婉转动听"] = "sweet and melodious",
+    ["婉转的"] = "melodious",
+    ["婉辞"] = "euphemism",
+    ["婉顺"] = "gentle and obedient",
+}
+
+return M

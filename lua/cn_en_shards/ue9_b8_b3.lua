@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["鸳梦"] = "love dream",
+    ["鸳瓦"] = "tile",
+    ["鸳鸯"] = "mandarin duck",
+    ["鸳鸯不独宿"] = "ducks never sleep alone",
+    ["鸳鸯井"] = "mandarin duck well",
+    ["鸳鸯交颈"] = "ducks necking",
+    ["鸳鸯会"] = "mandarin duck gathering",
+    ["鸳鸯债"] = "love debt",
+    ["鸳鸯刀"] = "mandarin duck sword",
+    ["鸳鸯哺乳"] = "duck breastfeeding",
+    ["鸳鸯坡"] = "mandarin duck slope",
+    ["鸳鸯夹心饼"] = "mandarin duck sandwich cake",
+    ["鸳鸯戏"] = "mandarin duck play",
+    ["鸳鸯戏水"] = "ducks playing in water",
+    ["鸳鸯桥"] = "mandarin duck bridge",
+    ["鸳鸯梦"] = "mandarin duck dream",
+    ["鸳鸯楼"] = "mandarin duck building",
+    ["鸳鸯池公园"] = "yuanyangchi park",
+    ["鸳鸯浴"] = "mandarin duck bath",
+    ["鸳鸯湖"] = "mandarin duck lake",
+    ["鸳鸯火锅底"] = "mandarin duck hotpot base",
+    ["鸳鸯独宿何曾惯"] = "ducks unused to sleeping alone",
+    ["鸳鸯相对浴红衣"] = "ducks bathing in red robes",
+    ["鸳鸯蝴蝶"] = "mandarin duck butterfly",
+    ["鸳鸯蝴蝶派"] = "mandarin duck butterfly school",
+    ["鸳鸯贴纸相"] = "mandarin duck sticker photo",
+    ["鸳鸯酥"] = "mandarin duck pastry",
+    ["鸳鸯酥盒"] = "mandarin duck pastry box",
+    ["鸳鸯金楼"] = "mandarin duck gold tower",
+    ["鸳鸯饼"] = "mandarin duck cake",
+    ["鸳鸯鱼枣"] = "mandarin duck fish jujube",
+    ["鸳鸯鸡粥"] = "mandarin duck chicken porridge",
+}
+
+return M

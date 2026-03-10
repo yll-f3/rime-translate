@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["掀下"] = "lift off",
+    ["掀不翻"] = "cannot overturn",
+    ["掀不起"] = "cannot stir",
+    ["掀了"] = "lifted",
+    ["掀倒"] = "knock down",
+    ["掀出"] = "uncover",
+    ["掀到"] = "flip to",
+    ["掀动"] = "stir",
+    ["掀天斡地"] = "earth-shaking",
+    ["掀帘子"] = "lift the curtain",
+    ["掀底"] = "uncover",
+    ["掀开"] = "uncover",
+    ["掀拳裸袖"] = "roll up sleeves",
+    ["掀掉"] = "tear off",
+    ["掀桌"] = "flip table",
+    ["掀桌子"] = "table flip",
+    ["掀涌"] = "surge up",
+    ["掀盖头"] = "lift the veil",
+    ["掀翻"] = "overturn",
+    ["掀背式"] = "hatchback",
+    ["掀背式尾门"] = "hatchback door",
+    ["掀腾"] = "stir up",
+    ["掀舞一叶白头翁"] = "dancing white-haired elder",
+    ["掀衣服"] = "lift clothes",
+    ["掀被"] = "lift quilt",
+    ["掀起"] = "unfold",
+    ["掀起了"] = "unfolded",
+    ["掀起学"] = "learning surge",
+    ["掀起来"] = "lift up",
+    ["掀雷决电"] = "thunder and lightning",
+}
+
+return M

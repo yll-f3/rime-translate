@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["兑一兑"] = "exchange one by one",
+    ["兑不了"] = "cannot exchange",
+    ["兑付"] = "cash payment",
+    ["兑付期"] = "payment period",
+    ["兑卦"] = "dui hexagram",
+    ["兑取"] = "exchange for",
+    ["兑回"] = "reconversion",
+    ["兑奖"] = "prize redemption",
+    ["兑子"] = "exchange pieces",
+    ["兑换"] = "exchange",
+    ["兑换业务"] = "exchange business",
+    ["兑换券"] = "exchange coupon",
+    ["兑换商"] = "money changer",
+    ["兑换商城"] = "exchange mall",
+    ["兑换商店"] = "exchange store",
+    ["兑换处"] = "exchange office",
+    ["兑换外汇"] = "foreign exchange",
+    ["兑换时间"] = "exchange time",
+    ["兑换率"] = "exchange rate",
+    ["兑换现金"] = "cash exchange",
+    ["兑换积分"] = "exchange points",
+    ["兑换话费"] = "exchange for phone credit",
+    ["兑换货币"] = "currency exchange",
+    ["兑日元"] = "exchange for yen",
+    ["兑欧元"] = "exchange for euros",
+    ["兑款"] = "cash withdrawal",
+    ["兑水"] = "dilute with water",
+    ["兑现"] = "cash",
+    ["兑现率"] = "cash rate",
+    ["兑现诺言"] = "fulfill a promise",
+    ["兑积分"] = "exchange points",
+    ["兑领"] = "redeem",
+}
+
+return M

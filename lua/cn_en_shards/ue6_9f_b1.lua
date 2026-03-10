@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["柱下史"] = "pillar historian",
+    ["柱体"] = "cylinder",
+    ["柱体长小蠹"] = "small cylinder beetle",
+    ["柱塞"] = "plunger",
+    ["柱塞泵"] = "plunger pump",
+    ["柱塞阀"] = "plunger valve",
+    ["柱天踏地"] = "pillar of heaven",
+    ["柱头"] = "stigma",
+    ["柱头虫"] = "acorn worm",
+    ["柱子"] = "pillar",
+    ["柱小倾大"] = "small column tilt",
+    ["柱层析"] = "column chromatography",
+    ["柱座"] = "column base",
+    ["柱廊"] = "colonnade",
+    ["柱式"] = "columnar",
+    ["柱形"] = "columnar",
+    ["柱形图"] = "bar graph",
+    ["柱形统计图"] = "bar chart",
+    ["柱杖落手心茫然"] = "staff drops blankly",
+    ["柱状"] = "columnar",
+    ["柱状嗜纤维菌"] = "cytophaga columnaris",
+    ["柱状四胞藻"] = "tetraspora cylindrica",
+    ["柱状图"] = "bar chart",
+    ["柱石"] = "pillar",
+    ["柱石之坚"] = "pillar strength",
+    ["柱础"] = "plinth",
+    ["柱身"] = "column shaft",
+    ["柱面"] = "cylindrical",
+    ["柱面坐标"] = "cylindrical coordinates",
+    ["柱顶"] = "column top",
+}
+
+return M

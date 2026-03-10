@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["摧刚为柔"] = "turn strength into gentleness",
+    ["摧坚殪敌"] = "annihilate strong enemies",
+    ["摧坚陷敌"] = "break through strong enemies",
+    ["摧垮"] = "demolish",
+    ["摧城拔寨"] = "capture cities",
+    ["摧山搅海"] = "destroy mountains and stir seas",
+    ["摧心裂胆"] = "break heart and split gall",
+    ["摧折"] = "break",
+    ["摧折恶类"] = "destroy evil types",
+    ["摧折豪强"] = "destroy the powerful",
+    ["摧朽拉枯"] = "destroy rotten and pull dry",
+    ["摧枯拉朽"] = "crush dry weeds",
+    ["摧枯拉腐"] = "crush rotten wood",
+    ["摧枯振朽"] = "destroy the decayed",
+    ["摧残"] = "devastate",
+    ["摧残着"] = "devastating",
+    ["摧毁"] = "destroy",
+    ["摧毁了"] = "destroyed",
+    ["摧毁力"] = "destructive power",
+    ["摧毁廓清"] = "destroy and clear",
+    ["摧毁性"] = "destructive",
+    ["摧毁者"] = "destroyer",
+    ["摧甓蔓寒葩"] = "destroying the wall and cold flowers",
+    ["摧眉折腰"] = "bow and scrape",
+    ["摧紧获丑"] = "capture tightly and seize enemies",
+    ["摧胸破肝"] = "destroy chest and break liver",
+    ["摧花斫柳"] = "destroy flowers and willows",
+    ["摧身碎首"] = "destroy body and crush head",
+    ["摧锋陷坚"] = "break through enemy lines",
+    ["摧陷廓清"] = "destroy and clear",
+}
+
+return M

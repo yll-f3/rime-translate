@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["愤世"] = "cynicism",
+    ["愤世嫉俗"] = "misanthropy",
+    ["愤世疾邪"] = "resent society",
+    ["愤发有为"] = "strive and achieve",
+    ["愤怒"] = "anger",
+    ["愤怒了"] = "became angry",
+    ["愤怒圣印"] = "seal of wrath",
+    ["愤怒地说"] = "said angrily",
+    ["愤怒复仇"] = "wrathful revenge",
+    ["愤怒对话框"] = "anger dialog box",
+    ["愤怒对话气泡"] = "anger speech bubble",
+    ["愤怒掌握"] = "rage mastery",
+    ["愤怒的情人"] = "the angry lover",
+    ["愤怒的黄牛"] = "the angry bull",
+    ["愤怒药水"] = "potion of wrath",
+    ["愤怨"] = "resentment",
+    ["愤恨"] = "resentment",
+    ["愤愤"] = "indignant",
+    ["愤愤不平"] = "resentful",
+    ["愤愤有为"] = "strive and achieve",
+    ["愤慨"] = "indignation",
+    ["愤懑"] = "resentment",
+    ["愤激"] = "indignation",
+    ["愤然"] = "indignantly",
+    ["愤然作色"] = "show anger",
+    ["愤然离去"] = "storm off",
+    ["愤然离开"] = "leave in anger",
+    ["愤然而起"] = "rise in anger",
+    ["愤而辞职"] = "resign in anger",
+    ["愤青"] = "angry youth",
+    ["愤风惊浪"] = "angry wind and waves",
+}
+
+return M

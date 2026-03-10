@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["虐俘"] = "prisoner abuse",
+    ["虐哭"] = "crushed in tears",
+    ["虐囚"] = "prisoner abuse",
+    ["虐囚丑闻"] = "prisoner abuse scandal",
+    ["虐囚事件"] = "prisoner abuse incident",
+    ["虐妻"] = "wife abuse",
+    ["虐待"] = "abuse",
+    ["虐待动物"] = "animal abuse",
+    ["虐待动物罪"] = "animal cruelty crime",
+    ["虐待家庭成员"] = "domestic abuse",
+    ["虐待狂"] = "sadism",
+    ["虐待罪"] = "abuse crime",
+    ["虐待老人"] = "elder abuse",
+    ["虐得"] = "brutal",
+    ["虐心"] = "heartbreaking",
+    ["虐恋"] = "sadomasochism",
+    ["虐打"] = "violent beating",
+    ["虐政"] = "tyranny",
+    ["虐文"] = "tragic fiction",
+    ["虐杀"] = "brutal killing",
+    ["虐杀原形"] = "prototype",
+    ["虐死"] = "brutal death",
+    ["虐泉"] = "fountain camping",
+    ["虐泉水"] = "fountain camping",
+    ["虐狗"] = "dog abuse",
+    ["虐猫事件"] = "cat abuse incident",
+    ["虐的"] = "brutal",
+    ["虐童"] = "child abuse",
+    ["虐童事件"] = "child abuse incident",
+    ["虐菜"] = "dominating noobs",
+    ["虐龙"] = "dragon abuse",
+}
+
+return M

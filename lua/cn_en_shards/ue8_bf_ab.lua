@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["迫不及待"] = "can't wait",
+    ["迫不得已"] = "no choice",
+    ["迫临"] = "approaching",
+    ["迫之如火煎"] = "urgent as fire",
+    ["迫于"] = "under",
+    ["迫于压力"] = "under pressure",
+    ["迫于形势"] = "under circumstances",
+    ["迫令"] = "compel",
+    ["迫使"] = "compel",
+    ["迫击炮"] = "mortar",
+    ["迫击炮弹"] = "mortar shell",
+    ["迫击炮连"] = "mortar company",
+    ["迫切"] = "urgent",
+    ["迫切希望"] = "eagerly hope",
+    ["迫切性"] = "urgency",
+    ["迫切愿望"] = "urgent desire",
+    ["迫切要求"] = "urgent demand",
+    ["迫切陈词"] = "urgent plea",
+    ["迫切需要"] = "urgent need",
+    ["迫在眉梢"] = "urgent",
+    ["迫在眉睫"] = "imminent",
+    ["迫在眼前"] = "looming",
+    ["迫害"] = "persecution",
+    ["迫害者"] = "persecutor",
+    ["迫害致死"] = "death by persecution",
+    ["迫榴炮"] = "grenade launcher",
+    ["迫肥"] = "forced fattening",
+    ["迫近"] = "approach",
+    ["迫近定理"] = "approximation theorem",
+    ["迫近的"] = "approaching",
+    ["迫降"] = "forced landing",
+    ["迫降航班"] = "forced landing flight",
+}
+
+return M

@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["厨余垃圾"] = "kitchen waste",
+    ["厨具"] = "kitchenware",
+    ["厨刀"] = "kitchen knife",
+    ["厨卫"] = "kitchen and bathroom",
+    ["厨司"] = "chef",
+    ["厨娘"] = "cook",
+    ["厨子"] = "cook",
+    ["厨子戏子痞子"] = "the chef, the actor, the scoundrel",
+    ["厨工"] = "kitchen worker",
+    ["厨师"] = "chef",
+    ["厨师节"] = "chef's day",
+    ["厨师长"] = "head chef",
+    ["厨房"] = "kitchen",
+    ["厨房刀"] = "kitchen knife",
+    ["厨房灯"] = "kitchen light",
+    ["厨房用具"] = "kitchen utensils",
+    ["厨房用品"] = "kitchen supplies",
+    ["厨房用纸"] = "kitchen paper",
+    ["厨房电器"] = "kitchen appliance",
+    ["厨房设备"] = "kitchen equipment",
+    ["厨房设施"] = "kitchen facilities",
+    ["厨房门"] = "kitchen door",
+    ["厨房间"] = "kitchen room",
+    ["厨烟觉远庖"] = "kitchen smoke feels distant kitchen",
+    ["厨王"] = "kitchen king",
+    ["厨电"] = "kitchen appliance",
+    ["厨神"] = "kitchen god",
+    ["厨艺"] = "culinary skills",
+    ["厨艺大赛"] = "culinary competition",
+}
+
+return M

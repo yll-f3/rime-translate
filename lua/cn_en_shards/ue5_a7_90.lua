@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["姐丈"] = "brother-in-law",
+    ["姐们"] = "sisters",
+    ["姐们儿"] = "sisters",
+    ["姐儿"] = "sister",
+    ["姐儿们"] = "sisters",
+    ["姐儿堰"] = "jie'er weir",
+    ["姐啊"] = "sister",
+    ["姐喊"] = "sister calls",
+    ["姐喊我"] = "sister calls me",
+    ["姐夫"] = "brother-in-law",
+    ["姐妹"] = "sister",
+    ["姐妹们"] = "sisters",
+    ["姐妹俩"] = "two sisters",
+    ["姐妹篇"] = "companion piece",
+    ["姐妹船"] = "sister ship",
+    ["姐妹花"] = "sisters",
+    ["姐姐"] = "sister",
+    ["姐姐啊"] = "sister",
+    ["姐姐喊我"] = "sister calls me",
+    ["姐姐好"] = "hello sister",
+    ["姐姐妹妹"] = "sisters",
+    ["姐姐的"] = "sister's",
+    ["姐姐真漂亮"] = "sister is so beautiful",
+    ["姐弟"] = "siblings",
+    ["姐弟俩"] = "siblings",
+    ["姐弟恋"] = "sibling romance",
+    ["姐弟情"] = "sibling affection",
+    ["姐控"] = "sister complex",
+    ["姐觉得"] = "sister thinks",
+}
+
+return M

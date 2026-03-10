@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["妈了个逼"] = "motherfucker",
+    ["妈呀"] = "oh mom",
+    ["妈呀中国"] = "oh china",
+    ["妈咪"] = "mommy",
+    ["妈咪宝贝"] = "mommy baby",
+    ["妈咪爱"] = "mommy love",
+    ["妈啊"] = "mom",
+    ["妈妈"] = "mom",
+    ["妈妈乐"] = "mom's joy",
+    ["妈妈和我"] = "mom and me",
+    ["妈妈好"] = "mom is good",
+    ["妈妈抱"] = "mom hug",
+    ["妈妈爸爸"] = "mom and dad",
+    ["妈妈的"] = "mom's",
+    ["妈妈的爱"] = "mom's love",
+    ["妈妈镇"] = "mom town",
+    ["妈宝"] = "mama's boy",
+    ["妈富隆"] = "marvelon",
+    ["妈拉巴子"] = "malabazi",
+    ["妈湾"] = "mawan",
+    ["妈湾港"] = "mawan port",
+    ["妈的"] = "fuck",
+    ["妈看"] = "mother watching",
+    ["妈祖"] = "mazu",
+    ["妈祖庙"] = "mazu temple",
+    ["妈蛋"] = "damn it",
+    ["妈说"] = "mom said",
+    ["妈逼"] = "motherfucker",
+    ["妈阁庙"] = "a-ma temple",
+}
+
+return M

@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["陇上"] = "longshang",
+    ["陇上羊归塞草烟"] = "longshang yanggui saicaoyan",
+    ["陇东"] = "east gansu",
+    ["陇东黑山羊"] = "east gansu black goat",
+    ["陇剧"] = "longju opera",
+    ["陇南"] = "longnan",
+    ["陇南中院"] = "longnan intermediate court",
+    ["陇南宕昌"] = "longnan dangchang",
+    ["陇南市"] = "longnan city",
+    ["陇南桦蛾"] = "longnan birch moth",
+    ["陇县"] = "long county",
+    ["陇县马蹄酥"] = "long county horseshoe pastry",
+    ["陇塘村"] = "longtang village",
+    ["陇头音信"] = "news from afar",
+    ["陇川"] = "longchuan",
+    ["陇川县"] = "longchuan county",
+    ["陇川小树蛙"] = "longchuan small tree frog",
+    ["陇桥学院"] = "longqiao college",
+    ["陇海"] = "longhai",
+    ["陇海线"] = "longhai line",
+    ["陇海路街道"] = "longhai road subdistrict",
+    ["陇海铁路"] = "longhai railway",
+    ["陇珠螨"] = "longzhu mite",
+    ["陇西"] = "longxi",
+    ["陇西县"] = "longxi county",
+    ["陇西村"] = "longxi village",
+    ["陇西路"] = "longxi road",
+    ["陇西郡"] = "longxi county",
+    ["陇达"] = "longda",
+    ["陇馔有熊腊"] = "longzhuan bear cured meat",
+    ["陇驾庄"] = "longjiazhuang",
+}
+
+return M

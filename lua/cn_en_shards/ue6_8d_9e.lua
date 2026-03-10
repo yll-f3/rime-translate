@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["捞一把"] = "make a quick profit",
+    ["捞不出来"] = "can't scoop out",
+    ["捞不到"] = "can't get",
+    ["捞不着"] = "can't reach",
+    ["捞世界"] = "seek fortune",
+    ["捞个够"] = "get enough",
+    ["捞了"] = "gained",
+    ["捞出"] = "scoop out",
+    ["捞刀河"] = "laodao river",
+    ["捞到"] = "get",
+    ["捞去"] = "take away",
+    ["捞取"] = "fish for",
+    ["捞外快"] = "make extra money",
+    ["捞女"] = "gold digger",
+    ["捞得着"] = "can get",
+    ["捞捕"] = "fishing",
+    ["捞摸"] = "lao mo",
+    ["捞月亮"] = "fish for the moon",
+    ["捞本"] = "recoup",
+    ["捞村乡"] = "laocun township",
+    ["捞油水"] = "skim off",
+    ["捞着"] = "manage to get",
+    ["捞稻草"] = "grasp at straws",
+    ["捞虾"] = "shrimp fishing",
+    ["捞起"] = "pick up",
+    ["捞起来"] = "fish out",
+    ["捞金"] = "gold digging",
+    ["捞金鱼"] = "goldfish scooping",
+    ["捞钱"] = "make money",
+    ["捞面"] = "lao mian",
+    ["捞饭"] = "rice soup",
+    ["捞鱼"] = "catch fish",
+}
+
+return M

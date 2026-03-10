@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["瞒一瞒"] = "hide",
+    ["瞒上欺下"] = "deceive superiors and bully subordinates",
+    ["瞒不了"] = "can't conceal",
+    ["瞒不住"] = "can't hide",
+    ["瞒不住了"] = "can't hide anymore",
+    ["瞒不住的"] = "unconcealable",
+    ["瞒不过"] = "can't hide",
+    ["瞒了"] = "concealed",
+    ["瞒产"] = "conceal production",
+    ["瞒住"] = "conceal",
+    ["瞒你"] = "hide from you",
+    ["瞒哄"] = "deceive",
+    ["瞒天大谎"] = "huge lie",
+    ["瞒天席地"] = "live in the open",
+    ["瞒天瞒地"] = "deceive everywhere",
+    ["瞒天讨价"] = "bargain deceitfully",
+    ["瞒天过海"] = "deception",
+    ["瞒天过海之计"] = "scheme of deception",
+    ["瞒天过海计"] = "deception plan",
+    ["瞒得"] = "conceal",
+    ["瞒得过"] = "can conceal",
+    ["瞒报"] = "conceal report",
+    ["瞒是瞒不住的"] = "the truth will out",
+    ["瞒着"] = "hide",
+    ["瞒着他"] = "hide from him",
+    ["瞒着你"] = "hide from you",
+    ["瞒着呢"] = "hiding",
+    ["瞒着我"] = "hide from me",
+    ["瞒神吓鬼"] = "deceive gods and scare ghosts",
+    ["瞒神唬鬼"] = "deceive gods and frighten ghosts",
+    ["瞒过"] = "deceive",
+    ["瞒骗"] = "deception",
+}
+
+return M

@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["娘不"] = "mother not",
+    ["娘不娘"] = "mother or not",
+    ["娘亲"] = "dear mother",
+    ["娘们"] = "women",
+    ["娘们儿"] = "womenfolk",
+    ["娘俩"] = "mother and child",
+    ["娘俩儿"] = "mother and child pair",
+    ["娘儿"] = "mother and child",
+    ["娘儿们"] = "womenfolk",
+    ["娘儿俩"] = "mother and child pair",
+    ["娘姨"] = "mother aunt",
+    ["娘娘"] = "empress",
+    ["娘娘庄乡"] = "niangniangzhuang township",
+    ["娘娘庙"] = "niangniang temple",
+    ["娘娘庙前街"] = "niangniang temple front street",
+    ["娘娘府"] = "niangniang residence",
+    ["娘娘腔"] = "effeminacy",
+    ["娘子"] = "wife",
+    ["娘子关"] = "niangzi pass",
+    ["娘子军"] = "women soldiers",
+    ["娘子神乡"] = "niangzi shen township",
+    ["娘家"] = "maiden home",
+    ["娘家人"] = "maiden family",
+    ["娘家姓"] = "maiden surname",
+    ["娘惜细儿"] = "mother cherishes youngest",
+    ["娘惹峇峇"] = "nyonya baba",
+    ["娘拉乡"] = "niangla township",
+    ["娘炮"] = "sissy",
+    ["娘炮文化"] = "sissy culture",
+    ["娘的"] = "mother's",
+    ["娘胎"] = "mother's womb",
+    ["娘舅"] = "maternal uncle",
+}
+
+return M

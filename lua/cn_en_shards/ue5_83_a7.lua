@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["僧人"] = "monk",
+    ["僧众"] = "monastic followers",
+    ["僧伽"] = "sangha",
+    ["僧伽罗"] = "sinhala",
+    ["僧佉论"] = "samkhya",
+    ["僧侣"] = "monks",
+    ["僧俗"] = "monastic and secular",
+    ["僧团"] = "monastic community",
+    ["僧固"] = "senggu",
+    ["僧固乡"] = "senggu township",
+    ["僧多粥少"] = "more monks than porridge",
+    ["僧寺"] = "monastery",
+    ["僧尼"] = "monks and nuns",
+    ["僧帽"] = "monk's hat",
+    ["僧帽内陆溪蟹"] = "monk's hat freshwater crab",
+    ["僧帽斜管虫"] = "monk's hat slipper animalcule",
+    ["僧帽水母"] = "portuguese man o' war",
+    ["僧帽水母鱼"] = "monk's hat jellyfish",
+    ["僧帽牡蛎"] = "monk's hat oyster",
+    ["僧帽肾形虫"] = "monk's hat kidney worm",
+    ["僧徒"] = "monastic disciples",
+    ["僧房宿有期"] = "monk's lodging has a schedule",
+    ["僧敲月下门"] = "monk knocks under the moon",
+    ["僧是愚氓犹可训"] = "monks are fools but teachable",
+    ["僧来看佛面"] = "monks see buddha's face",
+    ["僧格林沁"] = "senggelinqin",
+    ["僧籍"] = "monk registry",
+    ["僧肇"] = "sengzhao",
+    ["僧言古壁佛画好"] = "monk says ancient wall buddha painting good",
+    ["僧道"] = "monk and taoist",
+    ["僧院"] = "monastic courtyard",
+}
+
+return M

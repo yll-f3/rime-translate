@@ -1,0 +1,35 @@
+local M = {}
+
+M.mapping = {
+    ["芥园西道"] = "jieyuan west road",
+    ["芥园道"] = "jieyuan road",
+    ["芥子"] = "mustard seed",
+    ["芥子园"] = "mustard seed garden",
+    ["芥子气"] = "mustard gas",
+    ["芥子空间"] = "mustard seed space",
+    ["芥子须弥"] = "mustard seed and sumeru",
+    ["芥拾青紫"] = "pick up green and purple",
+    ["芥末"] = "mustard",
+    ["芥末墩儿"] = "mustard mound",
+    ["芥末滨珊瑚"] = "mustard porites",
+    ["芥末煎火腿豌豆"] = "mustard fried ham with peas",
+    ["芥末粉"] = "mustard powder",
+    ["芥末酱"] = "mustard sauce",
+    ["芥末鸭掌"] = "mustard duck feet",
+    ["芥末鸭膀"] = "mustard duck wings",
+    ["芥菜"] = "mustard greens",
+    ["芥菜咸蛋鱼头汤"] = "mustard greens salted egg fish head soup",
+    ["芥菜圆子"] = "mustard greens meatballs",
+    ["芥菜薹"] = "mustard green stem",
+    ["芥菜饭"] = "mustard greens rice",
+    ["芥蒂"] = "grudge",
+    ["芥蓝"] = "chinese broccoli",
+    ["芥蓝干贝"] = "chinese broccoli with scallops",
+    ["芥蓝炒香肠"] = "chinese broccoli with sausage",
+    ["芥蓝牛肉"] = "chinese broccoli with beef",
+    ["芥蓝菜"] = "chinese broccoli",
+    ["芥酸"] = "erucic acid",
+    ["芥黄"] = "mustard yellow",
+}
+
+return M

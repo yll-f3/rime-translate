@@ -1,0 +1,36 @@
+local M = {}
+
+M.mapping = {
+    ["驳不了"] = "cannot refute",
+    ["驳不倒"] = "cannot refute",
+    ["驳价"] = "bargain",
+    ["驳倒"] = "refute",
+    ["驳嘴"] = "argue",
+    ["驳回"] = "reject",
+    ["驳回上诉"] = "appeal dismissed",
+    ["驳回去"] = "reject",
+    ["驳回时机"] = "timing of dismissal",
+    ["驳回理由"] = "rejection reason",
+    ["驳回申诉"] = "complaint dismissed",
+    ["驳回申请"] = "application dismissed",
+    ["驳回起诉"] = "dismissal of lawsuit",
+    ["驳壳枪"] = "mauser pistol",
+    ["驳复"] = "rebuttal",
+    ["驳岸"] = "revetment",
+    ["驳接"] = "connect",
+    ["驳斥"] = "refute",
+    ["驳杂"] = "miscellaneous",
+    ["驳正"] = "refute and correct",
+    ["驳船"] = "barge",
+    ["驳船队"] = "barge fleet",
+    ["驳议"] = "objection",
+    ["驳论"] = "refutation",
+    ["驳象虎疑"] = "doubtful like doubting an elephant or a tiger",
+    ["驳运"] = "barge transport",
+    ["驳运费"] = "barge freight",
+    ["驳难"] = "refutation",
+    ["驳面子"] = "refuse face",
+    ["驳骨丹"] = "bone-setting pill",
+}
+
+return M

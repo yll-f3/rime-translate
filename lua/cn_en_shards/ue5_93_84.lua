@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["哄一哄"] = "coax a bit",
+    ["哄不了"] = "cannot deceive",
+    ["哄不住"] = "cannot be fooled",
+    ["哄了"] = "coaxed",
+    ["哄人"] = "deceive",
+    ["哄他"] = "coax him",
+    ["哄传"] = "spread widely",
+    ["哄你"] = "coax you",
+    ["哄劝"] = "coax",
+    ["哄哄"] = "buzz",
+    ["哄哄闹闹"] = "noisy",
+    ["哄场"] = "stir up trouble",
+    ["哄堂大笑"] = "uproarious laughter",
+    ["哄她"] = "coax her",
+    ["哄好"] = "coax well",
+    ["哄孩子"] = "soothe a child",
+    ["哄弄"] = "deceive",
+    ["哄得"] = "coax",
+    ["哄我"] = "cheat me",
+    ["哄抢"] = "looting",
+    ["哄抬"] = "bid up",
+    ["哄抬价格"] = "price gouging",
+    ["哄抬物价"] = "price inflation",
+    ["哄然"] = "uproarious",
+    ["哄然大笑"] = "burst into laughter",
+    ["哄着"] = "coaxing",
+    ["哄睡"] = "lull to sleep",
+    ["哄笑"] = "laughter",
+    ["哄逗"] = "coax",
+    ["哄闹"] = "uproar",
+    ["哄骗"] = "deceive",
+}
+
+return M

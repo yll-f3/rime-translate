@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["祛寒止痛"] = "relieve cold and pain",
+    ["祛斑"] = "spot removal",
+    ["祛斑霜"] = "spot cream",
+    ["祛暑"] = "relieve heat",
+    ["祛暑降温"] = "cooling",
+    ["祛浊胶囊"] = "turbidity-removing capsule",
+    ["祛湿"] = "remove dampness",
+    ["祛湿汤"] = "dampness soup",
+    ["祛疤"] = "scar removal",
+    ["祛疤修复"] = "scar repair",
+    ["祛病"] = "cure disease",
+    ["祛病健身"] = "cure disease and improve health",
+    ["祛病图腾"] = "healing totem",
+    ["祛病延年"] = "cure disease and prolong life",
+    ["祛病术"] = "healing art",
+    ["祛痘"] = "acne treatment",
+    ["祛痰"] = "expectorant",
+    ["祛痰灵口服液"] = "qutanling oral liquid",
+    ["祛痰药"] = "expectorants",
+    ["祛瘀"] = "remove stasis",
+    ["祛皱"] = "anti-wrinkle",
+    ["祛皱抗衰"] = "anti-aging",
+    ["祛衣请业"] = "remove clothes for study",
+    ["祛邪"] = "eliminate evil",
+    ["祛除"] = "eliminate",
+    ["祛除风寒"] = "relieve wind-cold",
+    ["祛风"] = "wind dispel",
+    ["祛风湿药"] = "antirheumatics",
+    ["祛风湿药酒"] = "antirheumatic wine",
+    ["祛风除湿"] = "dispelling wind-damp",
+    ["祛魅"] = "disenchantment",
+}
+
+return M

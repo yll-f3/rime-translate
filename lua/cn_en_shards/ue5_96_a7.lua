@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["喧叫"] = "clamor",
+    ["喧呼"] = "shouting",
+    ["喧响"] = "clamor",
+    ["喧哗"] = "noise",
+    ["喧哗声"] = "clamor",
+    ["喧喧"] = "noisy",
+    ["喧喧嚷嚷"] = "hubbub",
+    ["喧噪"] = "noise",
+    ["喧嚣"] = "noise",
+    ["喧嚣一时"] = "temporary noise",
+    ["喧嚣声"] = "noise",
+    ["喧嚣的"] = "noisy",
+    ["喧嚷"] = "xuanrang",
+    ["喧声"] = "noise",
+    ["喧天"] = "deafening",
+    ["喧天锣鼓"] = "deafening gongs and drums",
+    ["喧宾夺主"] = "the sauce is better than the fish",
+    ["喧扰"] = "clamor",
+    ["喧杂"] = "noisy",
+    ["喧沸"] = "uproar",
+    ["喧然名都会"] = "xuanranmingduhui",
+    ["喧笑"] = "laughter",
+    ["喧腾"] = "clamor",
+    ["喧花斧"] = "noisy axe",
+    ["喧闹"] = "noisy",
+    ["喧闹不休"] = "incessant noise",
+    ["喧闹声"] = "noise",
+    ["喧闹法则"] = "noise law",
+    ["喧闹的人"] = "noisy person",
+    ["喧闹纷乱"] = "hustle and bustle",
+    ["喧阗"] = "bustling",
+}
+
+return M

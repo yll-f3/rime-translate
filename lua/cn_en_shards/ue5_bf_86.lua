@@ -1,0 +1,38 @@
+local M = {}
+
+M.mapping = {
+    ["忆不起"] = "yibuqi",
+    ["忆不起来"] = "yibuqilai",
+    ["忆与高李辈"] = "recall with li gao",
+    ["忆儿时"] = "recalling childhood",
+    ["忆华"] = "recalling china",
+    ["忆及"] = "recall",
+    ["忆君清泪如铅水"] = "tears like lead",
+    ["忆奉莲花座"] = "recalling the lotus throne",
+    ["忆如"] = "recall as",
+    ["忆山东兄弟"] = "remembering shandong brothers",
+    ["忆当年"] = "recalling the past",
+    ["忆往事"] = "recall past",
+    ["忆往昔"] = "recall old times",
+    ["忆往昔峥嵘岁月稠"] = "remember past glory",
+    ["忆念"] = "memory",
+    ["忆想"] = "reminisce",
+    ["忆我少壮时"] = "recalling my youthful days",
+    ["忆旧"] = "reminisce",
+    ["忆昔开元全盛日"] = "golden kaiyuan era",
+    ["忆昔抚今"] = "recall past and present",
+    ["忆昔洛阳董糟丘"] = "luoyang dong zaoqiu",
+    ["忆星音乐"] = "memory star music",
+    ["忆杭州梅花因叙旧游寄萧协律"] = "recalling hangzhou plum blossoms",
+    ["忆梦花"] = "dream flower",
+    ["忆江南"] = "recall jiangnan",
+    ["忆秦娥"] = "recalling qin e",
+    ["忆秦娥·娄山关"] = "recalling qin e: loudong pass",
+    ["忆苦思甜"] = "recall bitterness",
+    ["忆苦饭"] = "memory meal",
+    ["忆读书"] = "recall reading",
+    ["忆起"] = "recall",
+    ["忆述"] = "recount",
+}
+
+return M

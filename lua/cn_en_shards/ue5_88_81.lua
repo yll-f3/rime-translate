@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["刁东农场"] = "diaodong farm",
+    ["刁包"] = "crafty bag",
+    ["刁口"] = "cunning mouth",
+    ["刁声浪气"] = "coquettish tone",
+    ["刁天厥地"] = "unruly",
+    ["刁姓"] = "diao surname",
+    ["刁家乡"] = "diao hometown",
+    ["刁家村"] = "diao family village",
+    ["刁德一"] = "diaodeyi",
+    ["刁悍"] = "cunning and fierce",
+    ["刁斗"] = "diaodou",
+    ["刁横"] = "cunning and tyrannical",
+    ["刁民"] = "cunning people",
+    ["刁汊湖养殖场"] = "diaocha lake farm",
+    ["刁泼"] = "cunning and shrewish",
+    ["刁滑"] = "cunning",
+    ["刁滑奸诈"] = "cunning and treacherous",
+    ["刁猾"] = "cunning",
+    ["刁琳宇"] = "diao linyu",
+    ["刁着呢"] = "tricky",
+    ["刁蛮"] = "cunning and barbaric",
+    ["刁蛮公主"] = "cunning princess",
+    ["刁赖"] = "cunning and unreasonable",
+    ["刁蹬"] = "harass",
+    ["刁钻"] = "cunning",
+    ["刁钻促狭"] = "cunning and narrow",
+    ["刁钻古怪"] = "eccentric",
+    ["刁难"] = "make things difficult",
+    ["刁顽"] = "stubborn",
+    ["刁顽不化"] = "incorrigibly stubborn",
+    ["刁风弄月"] = "play with wind and moon",
+}
+
+return M

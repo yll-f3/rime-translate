@@ -1,0 +1,37 @@
+local M = {}
+
+M.mapping = {
+    ["糯性"] = "glutinousness",
+    ["糯玉米"] = "waxy corn",
+    ["糯稻"] = "glutinous rice",
+    ["糯稻根"] = "glutinous rice root",
+    ["糯米"] = "glutinous rice",
+    ["糯米丸子"] = "glutinous rice ball",
+    ["糯米八宝饭"] = "glutinous rice pudding",
+    ["糯米凉糕"] = "glutinous rice cold cake",
+    ["糯米哦"] = "glutinous rice oh",
+    ["糯米团"] = "glutinous rice dumpling",
+    ["糯米圆子"] = "glutinous rice ball",
+    ["糯米塞藕"] = "glutinous rice stuffed lotus root",
+    ["糯米大枣粥"] = "glutinous rice and jujube porridge",
+    ["糯米桂圆粥"] = "glutinous rice and longan porridge",
+    ["糯米球"] = "glutinous rice ball",
+    ["糯米甜糟"] = "glutinous rice sweet ferment",
+    ["糯米砣"] = "glutinous rice lump",
+    ["糯米粉"] = "glutinous rice flour",
+    ["糯米粑粑"] = "glutinous rice cake",
+    ["糯米粥"] = "glutinous rice porridge",
+    ["糯米糍"] = "glutinous rice ball",
+    ["糯米糕"] = "glutinous rice cake",
+    ["糯米糖藕"] = "glutinous rice sweet lotus root",
+    ["糯米藕片"] = "glutinous rice and lotus root slices",
+    ["糯米藕饺"] = "glutinous rice and lotus root dumpling",
+    ["糯米藤根"] = "glutinous rice vine root",
+    ["糯米饭"] = "glutinous rice",
+    ["糯米鸡"] = "glutinous rice chicken",
+    ["糯糯的"] = "sticky",
+    ["糯而不粘"] = "glutinous but not sticky",
+    ["糯谷猪"] = "glutinous rice pig",
+}
+
+return M
