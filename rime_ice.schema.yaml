@@ -42,6 +42,7 @@ switches:
 engine:
   processors:
     - lua_processor@*select_character  # 以词定字
+    - lua_processor@*cn_en_commit_processor  # Shift+space 上屏当前候选英文
     - ascii_composer
     - recognizer
     - key_binder
@@ -73,6 +74,7 @@ engine:
     - lua_translator@*force_gc           # 暴力 GC
   filters:
     - lua_filter@*corrector                         # 错音错字提示
+    - lua_filter@*cn_en_annotation_filter           # 中文候选项英文注释
     - reverse_lookup_filter@radical_reverse_lookup  # 部件拆字滤镜
     - lua_filter@*autocap_filter                    # 英文自动大写
     - lua_filter@*v_filter                          # v 模式 symbols 优先
@@ -83,6 +85,19 @@ engine:
     - simplifier@traditionalize                     # 简繁切换
     - lua_filter@*search@radical_pinyin             # 部件拆字辅码
     - uniquifier                                    # 去重
+
+# Lua 配置: Shift+space 上屏英文
+cn_en_commit_processor:
+  enable: true
+  commit_english_key: Shift+space
+
+
+# Lua 配置: 中英文候选项注释
+cn_en_annotation_filter:
+  enable: true                    # 是否启用，默认 true
+  show_for_single_char: false     # 是否为单字显示，默认 false（只为词组显示）
+  format: " / {english}"          # 显示格式，{english} 为占位符
+  # only_for_types: []            # 只对特定类型生效，默认为空（对所有类型生效）
 
 
 # Lua 配置: 日期、时间、星期、ISO 8601、时间戳的触发关键字
