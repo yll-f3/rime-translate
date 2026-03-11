@@ -18,7 +18,7 @@ local shard_index = require("cn_en_shards_index").shards
 
 local shard_cache = {}
 local cache_order = {}
-local max_cache_shards = 80
+local max_cache_shards = 5000
 
 local function shard_key(text)
     if not text or text == "" then
