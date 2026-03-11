@@ -49,10 +49,7 @@ function M.init(env)
     
     -- 加载映射表
     env.mapping = cn_en_mapping.mapping
-    
-    -- 缓存：存储已处理过的候选项
-    env.cache = {}
-    
+
     -- 预编译占位符匹配
     env.format_has_placeholder = env.format:find("{english}", 1, true) ~= nil
     

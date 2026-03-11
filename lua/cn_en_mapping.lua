@@ -4,21 +4,16 @@
 原理：
 1. 将 50 万+ 映射拆成按首字分片的小文件：lua/cn_en_shards/*.lua
 2. 查询时按首字定位分片，只加载命中的分片
-3. 使用 LRU 缓存分片，限制常驻内存
+3. 当前为无缓存实验模式：每次查询都重新加载分片
 
 效果：
 - 避免一次性加载 21MB 大表
-- 输入中途只会触发“单分片”加载（通常几十 KB）
-- 常用分片常驻缓存，后续查询稳定
+- 行为接近“持续重置”，用于排查缓存相关卡顿
 --]]
 
 local M = {}
 
 local shard_index = require("cn_en_shards_index").shards
-
-local shard_cache = {}
-local cache_order = {}
-local max_cache_shards = 5000
 
 local function shard_key(text)
     if not text or text == "" then
@@ -34,45 +29,29 @@ local function shard_key(text)
     return "u" .. table.concat(parts, "_")
 end
 
-local function touch_cache(key)
-    for i, value in ipairs(cache_order) do
-        if value == key then
-            table.remove(cache_order, i)
-            break
-        end
-    end
-    cache_order[#cache_order + 1] = key
-
-    if #cache_order > max_cache_shards then
-        local old = table.remove(cache_order, 1)
-        shard_cache[old] = nil
-    end
-end
-
 local function load_shard(key)
-    if shard_cache[key] then
-        touch_cache(key)
-        return shard_cache[key]
-    end
-
     if not shard_index[key] then
-        shard_cache[key] = false
-        touch_cache(key)
         return false
     end
 
-    local ok, module = pcall(require, "cn_en_shards." .. key)
+    local module_name = "cn_en_shards." .. key
+
+    -- 无缓存模式：每次查询前先清理 require 缓存，强制重新加载模块
+    package.loaded[module_name] = nil
+    local ok, module = pcall(require, module_name)
     if not ok or not module or not module.mapping then
-        shard_cache[key] = false
-        touch_cache(key)
+        package.loaded[module_name] = nil
         return false
     end
 
-    shard_cache[key] = module.mapping
-    touch_cache(key)
-    return module.mapping
+    local mapping = module.mapping
+
+    -- 查询后立即清理 require 缓存，避免模块常驻内存
+    package.loaded[module_name] = nil
+    return mapping
 end
 
+-- 通过元表按需查询：首次访问触发分片加载，后续走缓存
 M.mapping = setmetatable({}, {
     __index = function(_, chinese_text)
         local key = shard_key(chinese_text)
