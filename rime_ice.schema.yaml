@@ -71,7 +71,7 @@ engine:
     - lua_translator@*unicode            # Unicode
     - lua_translator@*number_translator  # 数字、金额大写
     - lua_translator@*calc_translator    # 计算器
-    - lua_translator@*force_gc           # 暴力 GC
+#    - lua_translator@*force_gc           # 暴力 GC
   filters:
     - lua_filter@*corrector                         # 错音错字提示
     - lua_filter@*cn_en_annotation_filter           # 中文候选项英文注释
