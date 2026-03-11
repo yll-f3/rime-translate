@@ -67,12 +67,3 @@
 ## 许可证
 
 详见 [LICENSE](LICENSE) 文件。
-
-## 赞助支持
-
-如果这个项目对你有帮助，欢迎赞助支持！
-
-<div align="center">
-  <img src="sponsor-qrcode.png" alt="赞助二维码" width="200"/>
-  <p>扫码赞助</p>
-</div>
