@@ -4,11 +4,7 @@
 原理：
 1. 将 50 万+ 映射拆成按首字分片的小文件：lua/cn_en_shards/*.lua
 2. 查询时按首字定位分片，只加载命中的分片
-3. 当前为无缓存实验模式：每次查询都重新加载分片
-
-效果：
-- 避免一次性加载 21MB 大表
-- 行为接近“持续重置”，用于排查缓存相关卡顿
+3. 无缓存：每次查询用完立即释放，保持稳定低内存占用
 --]]
 
 local M = {}
@@ -36,22 +32,15 @@ local function load_shard(key)
 
     local module_name = "cn_en_shards." .. key
 
-    -- 无缓存模式：每次查询前先清理 require 缓存，强制重新加载模块
-    package.loaded[module_name] = nil
     local ok, module = pcall(require, module_name)
     if not ok or not module or not module.mapping then
-        package.loaded[module_name] = nil
         return false
     end
 
-    local mapping = module.mapping
-
-    -- 查询后立即清理 require 缓存，避免模块常驻内存
-    package.loaded[module_name] = nil
-    return mapping
+    return module.mapping
 end
 
--- 通过元表按需查询：首次访问触发分片加载，后续走缓存
+-- 通过元表按需查询：每次访问实时加载对应分片，用完即释放
 M.mapping = setmetatable({}, {
     __index = function(_, chinese_text)
         local key = shard_key(chinese_text)
