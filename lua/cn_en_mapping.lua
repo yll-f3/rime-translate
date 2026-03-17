@@ -4,7 +4,7 @@
 原理：
 1. 将 50 万+ 映射拆成按首字分片的小文件：lua/cn_en_shards/*.lua
 2. 查询时按首字定位分片，只加载命中的分片
-3. 无缓存：每次查询用完立即释放，保持稳定低内存占用
+3. 用完即释放：每次查询后清理 package.loaded，避免分片常驻
 --]]
 
 local M = {}
@@ -32,15 +32,20 @@ local function load_shard(key)
 
     local module_name = "cn_en_shards." .. key
 
+    package.loaded[module_name] = nil
+
     local ok, module = pcall(require, module_name)
     if not ok or not module or not module.mapping then
+        package.loaded[module_name] = nil
         return false
     end
 
-    return module.mapping
+    local mapping = module.mapping
+    package.loaded[module_name] = nil
+    return mapping
 end
 
--- 通过元表按需查询：每次访问实时加载对应分片，用完即释放
+-- 通过元表按需查询：每次访问按需加载分片，用完即释放
 M.mapping = setmetatable({}, {
     __index = function(_, chinese_text)
         local key = shard_key(chinese_text)
